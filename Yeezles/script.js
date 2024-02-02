@@ -104,10 +104,6 @@ shareScoreButton.onclick = function () {
     //window.alert("Score copied to clipboard!")
 }
 
-helpButton.onclick = function () {
-    introCardBack.classList.remove('hide')
-}
-
 introCardBack.onclick = function (e) {
     if (e.target.id === introCardBack.id) {
         introCardBack.classList.add('hide')
