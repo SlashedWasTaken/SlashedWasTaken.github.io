@@ -535,29 +535,6 @@ function compareFunction(choiceData, mysterySong) {
         result.length = "grey down";
     }
 
-    // Features
-    const filteredArray = choiceData.features.filter(value => mysterySong.features.includes(value));
-
-    if (areArraysEqualSets(choiceData, mysterySong) === "true") { result.features = "green" }
-
-    //if (choiceData.features[0] === mysterySong.features[0]){result.features = "green"}
-
-
-
-    else if (filteredArray != "") {
-        result.features = "yellow"
-    }
-
-
-
-    else { result.features = "grey" }
-
-
-
-
-
-
-    return result;
 }
 
 /** assumes array elements are primitive types
@@ -565,30 +542,6 @@ function compareFunction(choiceData, mysterySong) {
 * @param  {} choiceData.features is an array
 * @param  {} mysterySong.features is an array
 */
-function areArraysEqualSets(choiceData, mysterySong) {
-    const superSet = {};
-    for (const i of choiceData.features) {
-        const e = i + typeof i;
-        superSet[e] = 1;
-    }
-
-    for (const i of mysterySong.features) {
-        const e = i + typeof i;
-        if (!superSet[e]) {
-            return "false";
-        }
-        superSet[e] = 2;
-    }
-
-    for (let e in superSet) {
-        if (superSet[e] === 1) {
-            return "false";
-        }
-    }
-
-    return "true";
-}
-
 function addRow(choiceData, result) {
     const newRow = resultTable.insertRow(-1)
 
@@ -624,17 +577,10 @@ function addRow(choiceData, result) {
     lengthCell.innerText = secondsToMin(choiceData.length)
     lengthCell.className += " " + result["length"]
 
-    // Features
-    const featuresCell = document.createElement('td')
-    featuresCell.classList.add('features-cell')
-    featuresCell.innerText = haveFeatures(choiceData)
-    featuresCell.className += " " + result["features"]
-
 
     newRow.appendChild(songCell)
     newRow.appendChild(trackCell)
     newRow.appendChild(lengthCell)
-    newRow.appendChild(featuresCell)
 
 }
 
