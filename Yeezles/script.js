@@ -11,7 +11,7 @@ let guessedSongs = {}
 //let currentSongIndex = 0;
 accGuessCount = {}
 
-const maxGuesses = 8
+const maxGuesses = 10
 const showShowButton = document.getElementById('results-button')
 const guessButton = document.getElementById('guess-button');
 const mysteryImg = document.getElementById('mystery-img');
@@ -57,7 +57,7 @@ function dateDiffInDays(a, b) {
 }
 
 // test it
-const a = new Date("2022-04-15"),
+const a = new Date("2023-11-15"),
     b = new Date();
 const tzAdj = a.getTimezoneOffset();
 const aAdjusted = new Date(a.getTime() + tzAdj * 60000);
@@ -107,18 +107,6 @@ shareScoreButton.onclick = function () {
 helpButton.onclick = function () {
     introCardBack.classList.remove('hide')
 }
-
-donoButton.onclick = function () {
-    donateCardBack.classList.remove('hide')
-}
-
-donateCardBack.onclick = function (e) {
-    if (e.target.id === donateCardBack.id) {
-        donateCardBack.classList.add('hide')
-    }
-}
-
-
 
 introCardBack.onclick = function (e) {
     if (e.target.id === introCardBack.id) {
