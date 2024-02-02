@@ -1,13 +1,3 @@
-@font-face {
-  src: url(fonts/VCR_OSD_MONO.ttf);
-  font-family: YZY;
-}
-
-@font-face {
-  src: url(fonts/Syne-VariableFont_wght.ttf);
-  font-family: SYNE;
-}
-
 * {
   margin: 0;
   padding: 0;
