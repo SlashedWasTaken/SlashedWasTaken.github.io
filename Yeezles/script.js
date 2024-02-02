@@ -473,15 +473,15 @@ function compareFunction(choiceData, mysterySong) {
         result.track = "green";
     }
 
-    else if (choiceData.track - mysterySong.track >= -2
-        && choiceData.track - mysterySong.track <= 2
+    else if (choiceData.track - mysterySong.track >= -25
+        && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track < 0) {
         result.track = "yellow up";
     }
 
-    else if (choiceData.track - mysterySong.track >= -2
-        && choiceData.track - mysterySong.track <= 2
+    else if (choiceData.track - mysterySong.track >= -25
+        && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track > 0) {
         result.track = "yellow down";
@@ -501,15 +501,15 @@ function compareFunction(choiceData, mysterySong) {
         result.length = "green";
     }
 
-    else if (choiceData.length - mysterySong.length >= -30
-        && choiceData.length - mysterySong.length <= 30
+    else if (choiceData.length - mysterySong.length >= -3600
+        && choiceData.length - mysterySong.length <= 3600
         && choiceData.length - mysterySong.length != 0
         && choiceData.length - mysterySong.length < 0) {
         result.length = "yellow up";
     }
 
-    else if (choiceData.length - mysterySong.length >= -30
-        && choiceData.length - mysterySong.length <= 30
+    else if (choiceData.length - mysterySong.length >= -3600
+        && choiceData.length - mysterySong.length <= 3600
         && choiceData.length - mysterySong.length != 0
         && choiceData.length - mysterySong.length > 0) {
         result.length = "yellow down";
