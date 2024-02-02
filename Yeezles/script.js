@@ -470,33 +470,6 @@ function mainStatisticsL() {
 function compareFunction(choiceData, mysterySong) {
 
 
-    // Album Comparison
-    if (choiceData.album === mysterySong.album) {
-        result.album = "green";
-    }
-
-    else if (choiceData.album - mysterySong.album >= -2
-        && choiceData.album - mysterySong.album <= 2
-        && choiceData.album - mysterySong.album != 0
-        && choiceData.album - mysterySong.album < 0) {
-        result.album = "yellow up";
-    }
-
-    else if (choiceData.album - mysterySong.album >= -2
-        && choiceData.album - mysterySong.album <= 2
-        && choiceData.album - mysterySong.album != 0
-        && choiceData.album - mysterySong.album > 0) {
-        result.album = "yellow down";
-    }
-
-    else if (choiceData.album - mysterySong.album < 0) {
-        result.album = "grey up";
-    }
-
-    else if (choiceData.album - mysterySong.album > 0) {
-        result.album = "grey down";
-    }
-
     // Title Comparison
     if (choiceData.title === mysterySong.title) {
         result.title = "green"
@@ -638,25 +611,6 @@ function addRow(choiceData, result) {
     //songCell.appendChild(songHeadshot)
     songCell.appendChild(songTitle)
 
-    // Album
-    const albumCell = document.createElement('td')
-    albumCell.classList.add('album-cell')
-    albumCell.className += " " + result["album"]
-
-    const albumCellInner = document.createElement('div')
-    albumCellInner.className = 'album-cell-inner'
-
-
-    const albumLogo = new Image()
-    albumLogo.src = "/albums/128_" + choiceData.album + ".jpg"
-    albumLogo.className = 'album-logo'
-
-    albumCellInner.appendChild(albumLogo)
-
-    //albumCellInner.innerHTML += choiceData["album"]
-
-    albumCell.appendChild(albumCellInner)
-
 
     // Track Number (Tagen från Age)
     const trackCell = document.createElement('td')
@@ -678,7 +632,6 @@ function addRow(choiceData, result) {
 
 
     newRow.appendChild(songCell)
-    newRow.appendChild(albumCell)
     newRow.appendChild(trackCell)
     newRow.appendChild(lengthCell)
     newRow.appendChild(featuresCell)
