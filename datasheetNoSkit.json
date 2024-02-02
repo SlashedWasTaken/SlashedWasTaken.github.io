@@ -3,13 +3,13 @@
     "songs":
       {
         
-      "We are number one but its in the description":{"title":"We are number one but its in the description",
-          "cover":"https://i.ytimg.com/vi/_3P9AfgRQMY/maxresdefault.jpg",
-          "track":1, "length":43147,
+      "Intro":{"title":"Intro","album":1,
+          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
+          "track":1, "length":19,"features":["DeRay Davis"]},
       
-      "The TikTok Attorney but it's in the description": {"title":"The TikTok Attorney but it's in the description"
-          "cover":"https://i.ytimg.com/vi/JN3drhdQ_yU/maxresdefault.jpg",
-          "track":2, "length":31269,
+      "We Don't Care": {"title":"We Don't Care","album":1,
+          "cover":"https://www.udiscovermusic.com/wp-content/uploads/2019/02/Kanye-West-The-College-Dropout-album-cover-web-optimised-820.jpg",
+          "track":2, "length":240,"features":[""]},
 
           
        
@@ -21,8 +21,8 @@
       
     "numbers": 
         {
-        "1":{"title":"We are number one but its in the description"},
-        "2":{"title":"The TikTok Attorney but it's in the description"},
+        "1":{"title":"Amazing"},
+        "2":{"title":"We Don't Care"},
         
         
         
@@ -35,8 +35,10 @@
       "nothing":
         {
           "title":"clear",
+          "album":"clear",
           "track":"clear", 
           "length":"clear",
+          "features":"clear"
         }
     }
     }
