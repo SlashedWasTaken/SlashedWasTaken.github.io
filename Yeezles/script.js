@@ -470,43 +470,6 @@ function mainStatisticsL() {
 function compareFunction(choiceData, mysterySong) {
 
 
-    // Album Comparison
-    if (choiceData.album === mysterySong.album) {
-        result.album = "green";
-    }
-
-    else if (choiceData.album - mysterySong.album >= -2
-        && choiceData.album - mysterySong.album <= 2
-        && choiceData.album - mysterySong.album != 0
-        && choiceData.album - mysterySong.album < 0) {
-        result.album = "yellow up";
-    }
-
-    else if (choiceData.album - mysterySong.album >= -2
-        && choiceData.album - mysterySong.album <= 2
-        && choiceData.album - mysterySong.album != 0
-        && choiceData.album - mysterySong.album > 0) {
-        result.album = "yellow down";
-    }
-
-    else if (choiceData.album - mysterySong.album < 0) {
-        result.album = "grey up";
-    }
-
-    else if (choiceData.album - mysterySong.album > 0) {
-        result.album = "grey down";
-    }
-
-    // Title Comparison
-    if (choiceData.title === mysterySong.title) {
-        result.title = "green"
-        //console.log("West Guesser Ever!")
-    }
-    else {
-        result.title = "grey"
-        //console.log("u really a bum on fonem")
-    }
-
     // Track Comparison
     if (choiceData.track === mysterySong.track) {
         result.track = "green";
@@ -562,31 +525,6 @@ function compareFunction(choiceData, mysterySong) {
         result.length = "grey down";
     }
 
-    // Features
-    const filteredArray = choiceData.features.filter(value => mysterySong.features.includes(value));
-
-    if (areArraysEqualSets(choiceData, mysterySong) === "true") { result.features = "green" }
-
-    //if (choiceData.features[0] === mysterySong.features[0]){result.features = "green"}
-
-
-
-    else if (filteredArray != "") {
-        result.features = "yellow"
-    }
-
-
-
-    else { result.features = "grey" }
-
-
-
-
-
-
-    return result;
-}
-
 /** assumes array elements are primitive types
 * check whether 2 arrays are equal sets.
 * @param  {} choiceData.features is an array
@@ -638,26 +576,6 @@ function addRow(choiceData, result) {
     //songCell.appendChild(songHeadshot)
     songCell.appendChild(songTitle)
 
-    // Album
-    const albumCell = document.createElement('td')
-    albumCell.classList.add('album-cell')
-    albumCell.className += " " + result["album"]
-
-    const albumCellInner = document.createElement('div')
-    albumCellInner.className = 'album-cell-inner'
-
-
-    const albumLogo = new Image()
-    albumLogo.src = "/albums/128_" + choiceData.album + ".jpg"
-    albumLogo.className = 'album-logo'
-
-    albumCellInner.appendChild(albumLogo)
-
-    //albumCellInner.innerHTML += choiceData["album"]
-
-    albumCell.appendChild(albumCellInner)
-
-
     // Track Number (Tagen från Age)
     const trackCell = document.createElement('td')
     trackCell.classList.add('track-cell')
@@ -670,18 +588,10 @@ function addRow(choiceData, result) {
     lengthCell.innerText = secondsToMin(choiceData.length)
     lengthCell.className += " " + result["length"]
 
-    // Features
-    const featuresCell = document.createElement('td')
-    featuresCell.classList.add('features-cell')
-    featuresCell.innerText = haveFeatures(choiceData)
-    featuresCell.className += " " + result["features"]
-
 
     newRow.appendChild(songCell)
-    newRow.appendChild(albumCell)
     newRow.appendChild(trackCell)
     newRow.appendChild(lengthCell)
-    newRow.appendChild(featuresCell)
 
 }
 
