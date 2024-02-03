@@ -581,28 +581,9 @@ function secondsToMin(seconds) {
     }
 }
 
-function haveFeatures(choiceData) {
-    if (choiceData.features[0] === "") {
-        //console.log("No features")
-        return "No features"
-    }
-    else {
-        //console.log("Has features")
-        return choiceData.features
-    }
-}
-
 function showMysterySong(correct) {
     cardBackground.querySelector("#end-card-title").innerText = correct ? "Correct!" + " " : "Game" + " Over!"
-    cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title + " "
-
-    if (mysterySong.features[0] === "") {
-    }
-    else {
-        cardBackground.querySelector('#mystery-song-feature').innerText = "ft. [" + mysterySong.features + "]"
-    }
-
-
+    cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title
     cardBackground.querySelector('#mystery-song-img').src = mysterySong.cover
     cardBackground.classList.remove('hide')
     searchInput.classList.add('greyed')
