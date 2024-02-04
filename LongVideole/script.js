@@ -522,7 +522,7 @@ function compareFunction(choiceData, mysterySong) {
 }
 
 function secondsToMin(seconds) {
-    let min, time = secondsToMin(seconds)
+    let min = Math.floor(seconds / 60)
     let secondsRemaining = seconds % 60
 
         if (secondsRemaining > 9) {
@@ -535,7 +535,7 @@ function secondsToMin(seconds) {
 }
 
 function mintoHour(min) {
-    let hour = Math.floor(min / 60)
+    let min, time = secondsToMin(seconds)
     let minRemaining = min % 60
 
     if (minRemaining > 9) {
@@ -584,7 +584,7 @@ function addRow(choiceData, result) {
     // Track Length
     const lengthCell = document.createElement('td')
     lengthCell.classList.add('length-cell')
-    lengthCell.innerText = mintoHour(min) + ":" + time
+    lengthCell.innerText = mintoHour(min) + ":" + time(choiceData.length)
     lengthCell.className += " " + result["length"]
 
 
