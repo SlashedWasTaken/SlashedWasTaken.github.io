@@ -534,19 +534,6 @@ function secondsToMin(seconds) {
     }
 }
 
-function mintoHour(min) {
-    let min, time = secondsToMin(seconds)
-    let minRemaining = min % 60
-
-    if (minRemaining > 9) {
-        return hour + ":" + minRemaining
-    }
-
-    else {
-        return hour + ":0" + minRemaining
-    }
-}
-
 /** assumes array elements are primitive types
 * check whether 2 arrays are equal sets.
 * @param  {} choiceData.features is an array
@@ -584,7 +571,7 @@ function addRow(choiceData, result) {
     // Track Length
     const lengthCell = document.createElement('td')
     lengthCell.classList.add('length-cell')
-    lengthCell.innerText = secondsToMin(seconds) + ":" + time(choiceData.length)
+    lengthCell.innerText = secondsToMin(choiceData.length)
     lengthCell.className += " " + result["length"]
 
 
