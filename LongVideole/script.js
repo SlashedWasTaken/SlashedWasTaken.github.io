@@ -569,7 +569,7 @@ function addRow(choiceData, result) {
 }
 
 function secondsToMin(seconds) {
-    let min, time = secondstomin(seconds)
+    let min, time = secondsToMin(seconds)
     let secondsRemaining = seconds % 60
 
     return
