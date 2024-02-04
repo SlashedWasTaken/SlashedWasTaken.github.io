@@ -480,7 +480,7 @@ function compareFunction(choiceData, mysterySong) {
         && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track > 0) {
-        result.track = "yellow left";
+        result.track = "yellow right";
     }
 
     else if (choiceData.track - mysterySong.track < 0) {
@@ -501,14 +501,14 @@ function compareFunction(choiceData, mysterySong) {
         && choiceData.length - mysterySong.length <= 3600
         && choiceData.length - mysterySong.length != 0
         && choiceData.length - mysterySong.length < 0) {
-        result.length = "yellow up";
+        result.length = "yellow down";
     }
 
     else if (choiceData.length - mysterySong.length >= -3600
         && choiceData.length - mysterySong.length <= 3600
         && choiceData.length - mysterySong.length != 0
         && choiceData.length - mysterySong.length > 0) {
-        result.length = "yellow down";
+        result.length = "yellow up";
     }
 
     else if (choiceData.length - mysterySong.length < 0) {
