@@ -57,7 +57,7 @@ function dateDiffInDays(a, b) {
 }
 
 // test it
-const a = new Date("2024-02-02"),
+const a = new Date("2024-02-03"),
     b = new Date();
 const tzAdj = a.getTimezoneOffset();
 const aAdjusted = new Date(a.getTime() + tzAdj * 60000);
