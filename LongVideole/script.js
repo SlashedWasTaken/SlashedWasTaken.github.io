@@ -473,22 +473,22 @@ function compareFunction(choiceData, mysterySong) {
         && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track < 0) {
-        result.track = "yellow down";
+        result.track = "yellow up";
     }
 
     else if (choiceData.track - mysterySong.track >= -25
         && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track > 0) {
-        result.track = "yellow up";
+        result.track = "yellow down";
     }
 
     else if (choiceData.track - mysterySong.track < 0) {
-        result.track = "grey down";
+        result.track = "grey up";
     }
 
     else if (choiceData.track - mysterySong.track > 0) {
-        result.track = "grey up";
+        result.track = "grey down";
     }
 
     // Lenght Comparison
