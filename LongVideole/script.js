@@ -581,6 +581,19 @@ function secondsToMin(seconds) {
     }
 }
 
+function mintoHours(min) {
+    let min = Math.floor(seconds / 60)
+    let secondsRemaining = seconds % 60
+
+    if (secondsRemaining > 9) {
+        return mintoHours(min) + ":" + secondsToMin
+    }
+
+    else {
+        return mintoHours(min) + ":0" + secondsToMin
+    }
+}
+
 function showMysterySong(correct) {
     cardBackground.querySelector("#end-card-title").innerText = correct ? "Correct!" + " " : "Game" + " Over!"
     cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title
