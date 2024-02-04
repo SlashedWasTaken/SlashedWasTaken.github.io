@@ -558,7 +558,7 @@ function addRow(choiceData, result) {
     // Track Length
     const lengthCell = document.createElement('td')
     lengthCell.classList.add('length-cell')
-    lengthCell.innerText = minstohours + ":" + time(choiceData.length)
+    lengthCell.innerText = mintoHour + ":" + time(choiceData.length)
     lengthCell.className += " " + result["length"]
 
 
