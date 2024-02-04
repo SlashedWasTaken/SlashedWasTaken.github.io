@@ -64,8 +64,8 @@ const aAdjusted = new Date(a.getTime() + tzAdj * 60000);
 
 
 
-yeezleDay = dateDiffInDays(aAdjusted, b) + 1;
-console.log(yeezleDay)
+longvideoleDay = dateDiffInDays(aAdjusted, b) + 1;
+console.log(longvideoleDay)
 
 searchInput.setAttribute('placeholder', 'Start by typing any Ye song!')
 showIntro()
@@ -677,11 +677,11 @@ function scoreText() {
 }
 
 function formatScoreText(resultsArray) {
-    let formattedScoreText = "YEEZLE #" + yeezleDay + ": " + (Number(guessCount) - 1) + "/" + maxGuesses + "\n"  //+ "\n"
+    let formattedScoreText = "LONG VIDEOLE #" + longvideoleDay + ": " + (Number(guessCount) - 1) + "/" + maxGuesses + "\n"  //+ "\n"
     for (e of resultsArray) {
         formattedScoreText += "\n" + e.join("")
     }
-    formattedScoreText += "\n\n🌐 yeezle.xyz 🌐"
+    formattedScoreText += "\n\n🌐 SlashedWasTaken.github.io/LongVideole 🌐"
 
     return formattedScoreText
 }
