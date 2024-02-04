@@ -521,6 +521,32 @@ function compareFunction(choiceData, mysterySong) {
 
 }
 
+function secondsToMin(seconds) {
+    let min, time = secondsToMin(seconds)
+    let secondsRemaining = seconds % 60
+
+        if (secondsRemaining > 9) {
+        return min + ":" + secondsRemaining
+    }
+
+    else {
+        return min + ":0" + secondsRemaining
+    }
+}
+
+function mintoHour(min) {
+    let hour = Math.floor(min / 60)
+    let minRemaining = min % 60
+
+    if (minRemaining > 9) {
+        return hour + ":" + minRemaining
+    }
+
+    else {
+        return hour + ":0" + minRemaining
+    }
+}
+
 /** assumes array elements are primitive types
 * check whether 2 arrays are equal sets.
 * @param  {} choiceData.features is an array
@@ -558,7 +584,7 @@ function addRow(choiceData, result) {
     // Track Length
     const lengthCell = document.createElement('td')
     lengthCell.classList.add('length-cell')
-    lengthCell.innerText = mintoHour(mins) + ":" + time(choiceData.length)
+    lengthCell.innerText = mintoHour(min) + ":" + time(choiceData.length)
     lengthCell.className += " " + result["length"]
 
 
@@ -566,26 +592,6 @@ function addRow(choiceData, result) {
     newRow.appendChild(trackCell)
     newRow.appendChild(lengthCell)
 
-}
-
-function secondsToMin(seconds) {
-    let min, time = secondsToMin(seconds)
-    let secondsRemaining = seconds % 60
-
-    return
-}
-
-function mintoHour(min) {
-    let hour = Math.floor(min / 60)
-    let minRemaining = min % 60
-
-    if (minRemaining > 9) {
-        return hour + ":" + minRemaining
-    }
-
-    else {
-        return hour + ":0" + minRemaining
-    }
 }
 
 function showMysterySong(correct) {
