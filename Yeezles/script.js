@@ -473,14 +473,14 @@ function compareFunction(choiceData, mysterySong) {
         && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track < 0) {
-        result.track = "yellow down";
+        result.track = "yellow up";
     }
 
     else if (choiceData.track - mysterySong.track >= -25
         && choiceData.track - mysterySong.track <= 25
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track > 0) {
-        result.track = "yellow right";
+        result.track = "yellow left";
     }
 
     else if (choiceData.track - mysterySong.track < 0) {
