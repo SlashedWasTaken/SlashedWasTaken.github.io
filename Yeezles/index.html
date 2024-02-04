@@ -36,7 +36,7 @@
     <meta name="theme-color" content="#ffffff" />
     <script src="compressed.js" type="text/javascript" charset="utf-8"></script>
 
-    <title>Yeezle</title>
+    <title>Long Videole</title>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FB2F8KP4B5"></script>
 <script>
@@ -64,25 +64,12 @@
           <span class="material-symbols-outlined red600">favorite</span>
         </div>
       </div>
-
-      <div id="rs-cont">
-        <div class="right-but-cont">
-          <span class="material-icons md-cus" id="help-button"
-            >help_outline</span
-          >
-        </div>
-        <div class="right-but-cont" id="dono-icon">
-          <span class="material-icons md-cus" id="dono-button"
-            >favorite_outline</span
-          >
-        </div>
-      </div>
     </header>
 
     <div class="main-container">
       <br />
       <br />
-      <figcaption id="guess-title">Guess the Ye song</figcaption>
+      <figcaption id="guess-title">Guess the Long Video</figcaption>
 
       <form autocomplete="off">
         <div class="autocomplete" style="width: 300px">
@@ -96,11 +83,9 @@
       <div id="result-container">
         <table id="result-table">
           <tr id="result-rows">
-            <th id="table-text">Song</th>
-            <th id="table-text">Album</th>
-            <th id="table-text">Track No.</th>
-            <th id="table-text">Track Length</th>
-            <th id="table-text">Features</th>
+            <th id="table-text">Long Video</th>
+            <th id="table-text">Video No.</th>
+            <th id="table-text">Video Length</th>
           </tr>
         </table>
       </div>
@@ -114,9 +99,7 @@
             <div id="end-card-title-container">
               <h1 id="end-card-title"></h1>
             </div>
-            <img src="" alt="" id="mystery-song-img" />
             <p id="mystery-song-title"></p>
-            <p id="mystery-song-feature"></p>
           </div>
           <div>
             <button id="share-score-button">Share Score</button>
@@ -150,8 +133,7 @@
           </div>
         </div>
 
-        
-        <div class="stat-container" id="stat-collumn">
+          <div class="stat-container" id="stat-collumn">
           <div id="donate-banner">
             Consider donating to help keep Yeezle running!❤️
           </div>
@@ -167,21 +149,20 @@
       </div>
     </div>
 
-
     <div id="intro-card-back" class="hide">
       <div id="intro-card">
         <div id="intro-card-inner">
-          <h1 id="intro-message">Welcome to Yeezle!</h1>
+          <h1 id="intro-message">Welcome to Long Videole!</h1>
           <br />
-          <p>Guess the mystery Ye song!</p>
+          <p>Guess the Long Video!</p>
 
           <br />
 
           <div id="intro-text">
             <ul style="line-height: 1.7">
               <li>
-                You get eight guesses to guess a mystery song from any of
-                Kanye's 12 studio albums!
+                You get ten guesses to guess the long video! (from Long
+                Videos Watched by LDC / Aftermath)
               </li>
 
               <li>
@@ -191,22 +172,18 @@
 
               <li>
                 <span id="yellow-fill"
-                  >Yellow in the album or track number column</span
+                  >Yellow in the video number column</span
                 >
-                &nbsp;indicates that this attribute is within 2 (albums or tracks),
+                &nbsp;indicates that this attribute is within 20 videos,
                 with an arrow hinting if it is higher ( ↑ ) or lower ( ↓ ).
               </li>
 
               <li>
                 <span id="yellow-fill">Yellow in the track length column</span>
-                &nbsp;indicates that the song length is within 30 seconds, with an
-                arrow hinting if it is higher ( ↑ ) or lower ( ↓ ).
+                &nbsp;indicates that the video length is within 1 hour, with an
+                arrow hinting if it is longer ( ↑ ) or shorter ( ↓ ).
               </li>
 
-              <li>
-                <span id="yellow-fill">Yellow in the features column</span>
-                &nbsp;indicates that at least one of the featured artists is correct.
-              </li>
             </ul>
           </div>
 
@@ -220,5 +197,5 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
     <script src="autocomplete.js"></script>
     <script src="script.js"></script>
-  </body>
+        </body>
 </html>
