@@ -582,8 +582,8 @@ function secondsToMin(seconds) {
 }
 
 function mintoHour(min) {
-    let hour = Math.floor(min / 3600)
-    let minRemaining = min % 3600
+    let hour = Math.floor(min / 60)
+    let minRemaining = min % 60
 
     if (minRemaining > 9) {
         return hour + ":" + minRemaining
