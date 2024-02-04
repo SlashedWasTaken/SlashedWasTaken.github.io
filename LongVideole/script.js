@@ -484,11 +484,11 @@ function compareFunction(choiceData, mysterySong) {
     }
 
     else if (choiceData.track - mysterySong.track < 0) {
-        result.track = "grey up";
+        result.track = "grey down";
     }
 
     else if (choiceData.track - mysterySong.track > 0) {
-        result.track = "grey down";
+        result.track = "grey up";
     }
 
     // Lenght Comparison
