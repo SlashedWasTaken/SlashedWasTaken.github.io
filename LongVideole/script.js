@@ -586,11 +586,11 @@ function mintoHour(min) {
     let minRemaining = min % 60
 
     if (minRemaining > 9) {
-        return hours + ":" + minRemaining
+        return hour + ":" + minRemaining
     }
 
     else {
-        return hours + ":0" + minRemaining
+        return hour + ":0" + minRemaining
     }
 }
 
