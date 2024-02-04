@@ -558,7 +558,7 @@ function addRow(choiceData, result) {
     // Track Length
     const lengthCell = document.createElement('td')
     lengthCell.classList.add('length-cell')
-    lengthCell.innerText = secondsToMin(choiceData.length)
+    lengthCell.innerText = minstohours(mins) + ":" + time(choiceData.length)
     lengthCell.className += " " + result["length"]
 
 
@@ -569,15 +569,10 @@ function addRow(choiceData, result) {
 }
 
 function secondsToMin(seconds) {
-    let min = Math.floor(seconds / 60)
+    let min, time = secondstomin(seconds)
     let secondsRemaining = seconds % 60
 
-    if (secondsRemaining > 9) {
-        return min + ":" + secondsRemaining
-    }
-
-    else {
-        return min + ":0" + secondsRemaining
+        return
     }
 }
 
