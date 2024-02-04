@@ -36,7 +36,7 @@
     <meta name="theme-color" content="#ffffff" />
     <script src="compressed.js" type="text/javascript" charset="utf-8"></script>
 
-    <title>Long Videole</title>
+    <title>Yeezle</title>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FB2F8KP4B5"></script>
 <script>
@@ -64,12 +64,65 @@
           <span class="material-symbols-outlined red600">favorite</span>
         </div>
       </div>
+
+      <svg
+        id="YEEZLE_Image"
+        data-name="YEEZLEImage"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 1020.03 499.58"
+      >
+        <defs>
+          <style>
+            .cls-1 {
+              fill: rgb(255, 255, 255);
+            }
+          </style>
+        </defs>
+        <polygon
+          class="cls-1"
+          points="0 498.58 0 456.77 19.36 248 42.58 154.06 10.84 0 71.23 0 85.94 92.13 140.9 0 202.84 0 101.42 157.94 82.84 254.71 0 498.58"
+        />
+        <polygon
+          class="cls-1"
+          points="347.61 249.29 190.45 249.29 227.61 0 353.03 0 353.03 50.32 271.74 48.77 271.74 89.81 346.84 89.81 346.84 144 262.45 144 262.45 192 346.84 192 347.61 249.29"
+        />
+        <polygon
+          class="cls-1"
+          points="509.68 249.29 372.39 249.29 390.97 0 514.07 0 514.07 50.32 439.74 50.32 439.74 89.03 514.07 89.81 514.07 144 435.87 144 435.87 191.23 514.07 191.23 514.07 249.29 509.68 249.29"
+        />
+        <path
+          class="cls-1"
+          d="M1791.23,48.45h146.32V95.68l-73.16,144.77h81.67v57.29H1791.23V252.06s72.38-148.64,77.42-151.74S1856.26,98,1856.26,98h-65Z"
+          transform="translate(-1253.16 -48.45)"
+        />
+        <polygon
+          class="cls-1"
+          points="717.68 0 717.68 252.39 856.26 252.39 852.26 192.77 780.39 192.77 776.52 0 717.68 0"
+        />
+        <polygon
+          class="cls-1"
+          points="864.78 0.08 987.52 1.42 994.48 50.97 920.48 50.97 923.42 91.23 997.58 91.23 1003.55 145.42 929.23 145.42 932.71 192.65 1011.52 192.65 1020.03 253.81 986.55 253.81 1005.9 448.16 1006.78 499.58 921.52 250.71 883.58 250.71 864.78 0.08"
+        />
+      </svg>
+
+      <div id="rs-cont">
+        <div class="right-but-cont">
+          <span class="material-icons md-cus" id="help-button"
+            >help_outline</span
+          >
+        </div>
+        <div class="right-but-cont" id="dono-icon">
+          <span class="material-icons md-cus" id="dono-button"
+            >favorite_outline</span
+          >
+        </div>
+      </div>
     </header>
 
     <div class="main-container">
       <br />
       <br />
-      <figcaption id="guess-title">Guess the Long Video</figcaption>
+      <figcaption id="guess-title">Guess the Ye song</figcaption>
 
       <form autocomplete="off">
         <div class="autocomplete" style="width: 300px">
@@ -83,9 +136,11 @@
       <div id="result-container">
         <table id="result-table">
           <tr id="result-rows">
-            <th id="table-text">Long Video</th>
-            <th id="table-text">Video No.</th>
-            <th id="table-text">Video Length</th>
+            <th id="table-text">Song</th>
+            <th id="table-text">Album</th>
+            <th id="table-text">Track No.</th>
+            <th id="table-text">Track Length</th>
+            <th id="table-text">Features</th>
           </tr>
         </table>
       </div>
@@ -99,7 +154,9 @@
             <div id="end-card-title-container">
               <h1 id="end-card-title"></h1>
             </div>
+            <img src="" alt="" id="mystery-song-img" />
             <p id="mystery-song-title"></p>
+            <p id="mystery-song-feature"></p>
           </div>
           <div>
             <button id="share-score-button">Share Score</button>
@@ -132,6 +189,76 @@
             </div>
           </div>
         </div>
+
+        <div class="stat-container" id="stat-collumn">
+          <div id="donate-banner">
+            Consider donating to help keep Yeezle running!❤️
+          </div>
+          <a
+            href="https://ko-fi.com/yeezle"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="buttonA"
+            id="twelve-marg"
+            >Support us!</a
+          >
+        </div>
+      </div>
+    </div>
+
+    <div id="donate-card-back" class="hide">
+      <div id="donate-container">
+        <div id="donate-title">SUPPORT</div>
+        <div id="donate-text">
+          Yeezle has come a long way from being a small side-project to now
+          being enjoyed by tens of thousands of daily players.
+          <br />
+          <br />
+
+          In order to keep Yeezle updated, we need your help. If you've enjoyed
+          playing Yeezle, please consider donating - every dollar helps to keep
+          Yeezle running.
+        </div>
+        <a
+          href="https://ko-fi.com/yeezle"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="buttonA"
+          >Support us!❤️</a
+        >
+
+        <div id="small-donate-text">( Huge thanks to: )</div>
+        <div id="donors-container">
+          <div id="donor-text">
+            <b>Beck</b>, <br />
+          
+            EKG, <br />
+            JOE, <br />
+            Ethan Burns, <br />
+            RRightBraeden <br />
+            @sheeshhiphop, <br />
+            Kanyewestlover911, <br />
+            Smell, <br />
+            edaminium, <br />
+            Priya, <br />
+            MCBOi64, <br />
+            Brady, <br />
+            Beeg Cheif, <br />
+            ItzFranziska <br />
+            SlimeHail, <br />
+            kanye, <br />
+            @GodBreathedOnMe, <br />
+            Valle,<br />
+            Amber B, <br />
+            Sulay&Marina, <br />
+            Mike <br />
+            & all other anonymous donations!
+          </div>  
+          
+        </div>
+
+      </div>
+    </div>
 
     <div id="intro-card-back" class="hide">
       <div id="intro-card">
@@ -199,7 +326,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
     <script src="autocomplete.js"></script>
     <script src="script.js"></script>
-        </body>
+  </body>
 
   <footer id="nutsackfooter">
     <br /><br />
@@ -237,5 +364,5 @@
 
     <br />
     <br />
-  </body>
+  </footer>
 </html>
