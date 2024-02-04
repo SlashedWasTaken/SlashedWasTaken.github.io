@@ -573,7 +573,6 @@ function secondsToMin(seconds) {
     let secondsRemaining = seconds % 60
 
         return
-    }
 }
 
 function mintoHour(min) {
