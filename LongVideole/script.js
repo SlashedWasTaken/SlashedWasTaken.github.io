@@ -11,7 +11,7 @@ let guessedSongs = {}
 //let currentSongIndex = 0;
 accGuessCount = {}
 
-const maxGuesses = 8
+const maxGuesses = 10
 const showShowButton = document.getElementById('results-button')
 const guessButton = document.getElementById('guess-button');
 const mysteryImg = document.getElementById('mystery-img');
