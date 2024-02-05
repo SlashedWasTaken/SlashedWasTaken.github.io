@@ -11,7 +11,7 @@ let guessedSongs = {}
 //let currentSongIndex = 0;
 accGuessCount = {}
 
-const maxGuesses = 10
+const maxGuesses = 8
 const showShowButton = document.getElementById('results-button')
 const guessButton = document.getElementById('guess-button');
 const mysteryImg = document.getElementById('mystery-img');
@@ -469,15 +469,15 @@ function compareFunction(choiceData, mysterySong) {
         result.track = "green";
     }
 
-    else if (choiceData.track - mysterySong.track >= -25
-        && choiceData.track - mysterySong.track <= 25
+    else if (choiceData.track - mysterySong.track >= -20
+        && choiceData.track - mysterySong.track <= 20
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track < 0) {
         result.track = "yellow up";
     }
 
-    else if (choiceData.track - mysterySong.track >= -25
-        && choiceData.track - mysterySong.track <= 25
+    else if (choiceData.track - mysterySong.track >= -20
+        && choiceData.track - mysterySong.track <= 20
         && choiceData.track - mysterySong.track != 0
         && choiceData.track - mysterySong.track > 0) {
         result.track = "yellow down";
