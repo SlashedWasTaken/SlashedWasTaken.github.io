@@ -464,6 +464,33 @@ function compareFunction(choiceData, mysterySong) {
         //console.log("u really a bum on fonem")
     }
 
+    // Date Published Comparison
+    if (choiceData.datepublished === mysterySong.datepublished) {
+        result.datepublished = "green";
+    }
+
+    else if (choiceData.datepublished - mysterySong.datepublished >= -3
+        && choiceData.datepublished - mysterySong.datepublished <= 3
+        && choiceData.datepublished - mysterySong.datepublished != 0
+        && choiceData.datepublished - mysterySong.datepublished < 0) {
+        result.datepublished = "yellow up";
+    }
+
+    else if (choiceData.datepublished - mysterySong.datepublished >= -3
+        && choiceData.datepublished - mysterySong.datepublished <= 3
+        && choiceData.datepublished - mysterySong.datepublished != 0
+        && choiceData.datepublished - mysterySong.datepublished > 0) {
+        result.datepublished = "yellow down";
+    }
+
+    else if (choiceData.datepublished - mysterySong.datepublished < 0) {
+        result.datepublished = "grey up";
+    }
+
+    else if (choiceData.datepublished - mysterySong.datepublished > 0) {
+        result.datepublished = "grey down";
+    }
+
     // Track Comparison
     if (choiceData.track === mysterySong.track) {
         result.track = "green";
@@ -561,6 +588,12 @@ function addRow(choiceData, result) {
     //songCell.appendChild(songHeadshot)
     songCell.appendChild(songTitle)
 
+    // Date Published
+    const datepublishedCell = document.createElement('td')
+    datepublishedCell.classList.add('datepublished-cell')
+    datepublishedCell.innerText = choiceData.datepublished
+    datepublishedCell.className += " " + result["datepublished"]
+
 
     // Track Number (Tagen från Age)
     const trackCell = document.createElement('td')
@@ -576,6 +609,7 @@ function addRow(choiceData, result) {
 
 
     newRow.appendChild(songCell)
+    newRow.appendChild(datepublishedCell)
     newRow.appendChild(trackCell)
     newRow.appendChild(lengthCell)
 
