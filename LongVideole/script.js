@@ -469,15 +469,15 @@ function compareFunction(choiceData, mysterySong) {
         result.datepublished = "green";
     }
 
-    else if (choiceData.datepublished - mysterySong.datepublished >= -3
-        && choiceData.datepublished - mysterySong.datepublished <= 3
+    else if (choiceData.datepublished - mysterySong.datepublished >= -2
+        && choiceData.datepublished - mysterySong.datepublished <= 2
         && choiceData.datepublished - mysterySong.datepublished != 0
         && choiceData.datepublished - mysterySong.datepublished < 0) {
         result.datepublished = "yellow up";
     }
 
-    else if (choiceData.datepublished - mysterySong.datepublished >= -3
-        && choiceData.datepublished - mysterySong.datepublished <= 3
+    else if (choiceData.datepublished - mysterySong.datepublished >= -2
+        && choiceData.datepublished - mysterySong.datepublished <= 2
         && choiceData.datepublished - mysterySong.datepublished != 0
         && choiceData.datepublished - mysterySong.datepublished > 0) {
         result.datepublished = "yellow down";
