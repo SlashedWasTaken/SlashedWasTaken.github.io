@@ -270,7 +270,7 @@ const songTitles = [
     "How to survive alone in L4D1 campaigns (Realism, Expert) – Tips & Tricks",
     "Left 4 Dead 2 - No Mercy (Unutterable Difficulty)",
     "Metal Gear Solid V Longplay Walkthrough [Ground Zeroes+The Phantom Pain] Full Gameplay",
-    
+    "The Worst Game of 2023",
 
 ]
 
