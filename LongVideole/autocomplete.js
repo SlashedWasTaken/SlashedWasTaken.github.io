@@ -271,6 +271,7 @@ const songTitles = [
     "Left 4 Dead 2 - No Mercy (Unutterable Difficulty)",
     "Metal Gear Solid V Longplay Walkthrough [Ground Zeroes+The Phantom Pain] Full Gameplay",
     "The Worst Game of 2023",
+    "Raiden Punching Armstrong 10 Hours",
 
 ]
 
