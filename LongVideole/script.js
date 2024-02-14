@@ -313,7 +313,7 @@ async function doubleTrouble() {
 // MUST BE SAME NUMBER AS OBJECTS IN JSON FILE. MATH SECTION. math section. Math Section.
 function newMysterySong() {
     Math.seedrandom(today);
-    mysteryNumber = Math.floor(Math.random() * 273) + 1;
+    mysteryNumber = Math.floor(Math.random() * 274) + 1;
 
     console.log(today)
     //console.log(mysteryNumber + " is created.");
