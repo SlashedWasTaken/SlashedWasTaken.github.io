@@ -275,6 +275,7 @@ const songTitles = [
     "Tornado Alley Ultimate: Tartarus Survival",
     "that mauzymice gif 12h version with music",
     "Ridge Racer Type 4 Soundtrack",
+    "Loco Loco It Burns 10 HOURS",
 
 ]
 
