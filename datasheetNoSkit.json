@@ -280,7 +280,8 @@
 "Ridge Racer Type 4 Soundtrack": {"title":"Ridge Racer Type 4 Soundtrack","datepublished":2013,"track":275, "length":4210,"videotype":"Listen"},
 "Loco Loco It Burns 10 HOURS": {"title":"Loco Loco It Burns 10 HOURS","datepublished":2021,"track":276, "length":36000,"videotype":"Listen"},
 "Full Lua Programming Crash Course - Beginner to Advanced": {"title":"Full Lua Programming Crash Course - Beginner to Advanced","datepublished":2021,"track":277, "length":13239,"videotype":"Watch"},
-"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)": {"title":"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)","datepublished":2022,"track":278, "length":23073,"videotype":"Listen"}
+"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)": {"title":"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)","datepublished":2022,"track":278, "length":23073,"videotype":"Listen"},
+"Staying Alive 10 Hour Version": {"title":"Staying Alive 10 Hour Version","datepublished":2013,"track":279, "length":36143,"videotype":"Listen"}
 
           
       },
@@ -566,7 +567,8 @@
         "275":{"title":"Ridge Racer Type 4 Soundtrack"},
         "276":{"title":"Loco Loco It Burns 10 HOURS"},
         "277":{"title":"Full Lua Programming Crash Course - Beginner to Advanced"},
-        "277":{"title":"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)"}
+        "278":{"title":"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)"},
+        "279":{"title":"Staying Alive 10 Hour Version"}
         
         
         
