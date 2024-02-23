@@ -277,7 +277,8 @@ const songTitles = [
     "Ridge Racer Type 4 Soundtrack",
     "Loco Loco It Burns 10 HOURS",
     "Full Lua Programming Crash Course - Beginner to Advanced",
-    "The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)"
+    "The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)",
+    "Staying Alive 10 Hour Version"
 
 ]
 
