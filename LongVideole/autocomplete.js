@@ -278,7 +278,8 @@ const songTitles = [
     "Loco Loco It Burns 10 HOURS",
     "Full Lua Programming Crash Course - Beginner to Advanced",
     "The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)",
-    "Staying Alive 10 Hour Version"
+    "Staying Alive 10 Hour Version",
+    "Disco Lounge - Kevin MacLeod - 2 HOURS | Download Link"
 
 ]
 
