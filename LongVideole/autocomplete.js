@@ -281,7 +281,7 @@ const songTitles = [
     "Staying Alive 10 Hour Version",
     "Disco Lounge - Kevin MacLeod - 2 HOURS | Download Link",
     "Nikola Tesla and Albert Einstein Meme 10 Hours",
-    "Amazing!! 【ﾌﾞﾙｽｺﾌｧｰ薺,まゆむし,Jinmenusagi,FUNKY髭HANK】5 Hours",
+    "Mayumushi",
     "Glitchtale The Movie | Season 2 Compilation",
 
 ]
