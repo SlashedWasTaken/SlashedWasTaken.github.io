@@ -283,7 +283,12 @@
 "The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)": {"title":"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)","datepublished":2022,"track":278, "length":23073,"videotype":"Listen"},
 "Staying Alive 10 Hour Version": {"title":"Staying Alive 10 Hour Version","datepublished":2013,"track":279, "length":36143,"videotype":"Listen"},
 "Disco Lounge - Kevin MacLeod - 2 HOURS | Download Link": {"title":"Disco Lounge - Kevin MacLeod - 2 HOURS | Download Link","datepublished":2015,"track":280, "length":7510,"videotype":"Listen"},
-"test": {"title":"test","datepublished":2022,"track":281, "length":36000,"videotype":"Listen"}
+"Nikola Tesla and Albert Einstein Meme 10 Hours": {"title":"Nikola Tesla and Albert Einstein Meme 10 Hours","datepublished":2023,"track":281, "length":36000,"videotype":"Listen"},
+"Amazing!! 【ﾌﾞﾙｽｺﾌｧｰ薺,まゆむし,Jinmenusagi,FUNKY髭HANK】5 Hours": {"title":"Amazing!! 【ﾌﾞﾙｽｺﾌｧｰ薺,まゆむし,Jinmenusagi,FUNKY髭HANK】5 Hours","datepublished":2023,"track":282, "length":18008,"videotype":"Listen"},
+"Glitchtale The Movie | Season 2 Compilation": {"title":"Glitchtale The Movie | Season 2 Compilation","datepublished":2022,"track":283, "length":20287,"videotype":"Watch"},
+"Dragon Ball Z: The Ultimate Review - The Freeza Saga": {"title":"Dragon Ball Z: The Ultimate Review - The Freeza Saga","datepublished":2023,"track":284, "length":6804,"videotype":"Watch"},
+"Dragon Ball Z: The Ultimate Review - The Cell Saga": {"title":"Dragon Ball Z: The Ultimate Review - The Cell Saga","datepublished":2023,"track":285, "length":8109,"videotype":"Watch"}
+          
           
       },
       
@@ -571,7 +576,11 @@
         "278":{"title":"The Creators - Sound of Insanity Revisited | Stages 1-6 (Complete)"},
         "279":{"title":"Staying Alive 10 Hour Version"},
         "280":{"title":"Disco Lounge - Kevin MacLeod - 2 HOURS | Download Link"},
-        "281":{"title":"test"}
+        "281":{"title":"Nikola Tesla and Albert Einstein Meme 10 Hours"},
+        "282":{"title":"Amazing!! 【ﾌﾞﾙｽｺﾌｧｰ薺,まゆむし,Jinmenusagi,FUNKY髭HANK】5 Hours"},
+        "283":{"title":"Glitchtale The Movie | Season 2 Compilation"},
+        "284":{"title":"Dragon Ball Z: The Ultimate Review - The Freeza Saga"},
+        "285":{"title":"Dragon Ball Z: The Ultimate Review - The Cell Saga"}
         
         
         
