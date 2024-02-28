@@ -286,6 +286,7 @@ const songTitles = [
     "Dragon Ball Z: The Ultimate Review - The Freeza Saga",
     "Dragon Ball Z: The Ultimate Review - The Cell Saga",
     "The Carebear - Everywhere in The Beginning of Nowhere Stages 1-7 (The Final Edition)",
+    "Tally Hall - Banana Man (1 hour version) (something we all needed)",
     
 ]
 
