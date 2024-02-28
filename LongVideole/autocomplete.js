@@ -285,6 +285,7 @@ const songTitles = [
     "Glitchtale The Movie | Season 2 Compilation",
     "Dragon Ball Z: The Ultimate Review - The Freeza Saga",
     "Dragon Ball Z: The Ultimate Review - The Cell Saga",
+    "The Carebear - Everywhere in The Beginning of Nowhere Stages 1-7 (The Final Edition)",
     
 ]
 
