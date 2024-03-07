@@ -293,6 +293,7 @@ const songTitles = [
     "ＳＬＥＥＰＹ 💤 Lofi hip hop mix - Beats to sleep/chill to | Deep Sleeping Music",
     "FATE V6 - CLEAR",
     "Dig dug theme - 2 hours",
+    "Cat vibing to Lady Hear Me Tonight 10 hour",
     
 ]
 
