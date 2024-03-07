@@ -292,6 +292,7 @@ const songTitles = [
     "Wii - The Homebrew Channel Music Theme - 10 Hours Loop",
     "ＳＬＥＥＰＹ 💤 Lofi hip hop mix - Beats to sleep/chill to | Deep Sleeping Music",
     "FATE V6 - CLEAR",
+    "Dig dug theme - 2 hours",
     
 ]
 
