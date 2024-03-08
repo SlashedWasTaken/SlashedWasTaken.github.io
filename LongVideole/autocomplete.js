@@ -294,6 +294,9 @@ const songTitles = [
     "FATE V6 - CLEAR",
     "Dig dug theme - 2 hours",
     "Cat vibing to Lady Hear Me Tonight 10 hour",
+    "Red Ball - World Record Progression (Speedrun History)",
+    "Red Ball Speedruns - Beyond the 3-Minute Milestone",
+    "[TAS] I Wanna Kill The Kamilia 3 100% in 2:43:13.57",
     
 ]
 
