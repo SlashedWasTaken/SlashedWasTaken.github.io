@@ -297,6 +297,7 @@ const songTitles = [
     "Red Ball - World Record Progression (Speedrun History)",
     "Red Ball Speedruns - Beyond the 3-Minute Milestone",
     "[TAS] I Wanna Kill The Kamilia 3 100% in 2:43:13.57",
+    "Dragon Ball Z: The Ultimate Review (ft. Team Four Star) - The Buu Saga (Pt. 1)",
     
 ]
 
