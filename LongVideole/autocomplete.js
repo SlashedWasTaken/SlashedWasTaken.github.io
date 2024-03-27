@@ -304,6 +304,7 @@ const songTitles = [
     "pilotredsun - 4 & 1/2 Hour Playlist/Mega Mix",
     "Orpheusftw's Entire King of the Hill YouTube Poop Collaboration",
     "Scott the Woz's Year of Clubhouse Games Supercut",
+    "I reclaimed the highest score in ONE EGG by playing for 4 HOURS... [Rhythm Heaven Fever Munchy Monk]",
     
 ]
 
