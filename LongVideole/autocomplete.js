@@ -305,6 +305,9 @@ const songTitles = [
     "Orpheusftw's Entire King of the Hill YouTube Poop Collaboration",
     "Scott the Woz's Year of Clubhouse Games Supercut",
     "I reclaimed the highest score in ONE EGG by playing for 4 HOURS... [Rhythm Heaven Fever Munchy Monk]",
+    "How to Crash SM64 Using a Pendulum (Commentated)",
+    "The Great Centurial Trials 1 - 62 [World Record]",
+    "Imagine Dragons - Thunder (1 Hour Lyrics)",
     
 ]
 
