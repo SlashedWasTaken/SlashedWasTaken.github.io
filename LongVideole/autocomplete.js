@@ -310,6 +310,7 @@ const songTitles = [
     "Imagine Dragons - Thunder (1 Hour Lyrics)",
     "1 hour Undertale Vines compilation",
     "Dragon Ball Z: The Ultimate Review (ft. Team Four Star) - The Buu Saga (Pt. 2)",
+    "Discord VCs at 6AM",
     
 ]
 
