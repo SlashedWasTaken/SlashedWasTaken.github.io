@@ -308,6 +308,7 @@ const songTitles = [
     "How to Crash SM64 Using a Pendulum (Commentated)",
     "The Great Centurial Trials 1 - 62 [World Record]",
     "Imagine Dragons - Thunder (1 Hour Lyrics)",
+    "1 hour Undertale Vines compilation",
     "Dragon Ball Z: The Ultimate Review (ft. Team Four Star) - The Buu Saga (Pt. 2)",
     
 ]
