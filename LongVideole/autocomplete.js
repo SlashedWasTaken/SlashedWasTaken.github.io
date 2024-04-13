@@ -311,6 +311,8 @@ const songTitles = [
     "1 hour Undertale Vines compilation",
     "Dragon Ball Z: The Ultimate Review (ft. Team Four Star) - The Buu Saga (Pt. 2)",
     "Discord VCs at 6AM",
+    "YTP - Peter-Man 2",
+    "Two Hour Testament",
     
 ]
 
