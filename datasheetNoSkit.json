@@ -317,7 +317,8 @@
 "YTP - Peter-Man 2": {"title":"YTP - Peter-Man 2","datepublished":2020,"track":312, "length":4155,"videotype":"Watch"},
 "Two Hour Testament": {"title":"Two Hour Testament","datepublished":2019,"track":313, "length":7810,"videotype":"Listen"},
 "(VOD, Part 1) Space Jam Charity SLAM!": {"title":"(VOD, Part 1) Space Jam Charity SLAM!","datepublished":2021,"track":314, "length":25315,"videotype":"Listen"},
-". . .": {"title":". . .","datepublished":2023,"track":315, "length":3599,"videotype":"Listen"}
+"AB - Put That Shit On (10 Hours)": {"title":"AB - Put That Shit On (10 Hours)","datepublished":2024,"track":315, "length":36060,"videotype":"Listen"},
+". . .": {"title":". . .","datepublished":2023,"track":316, "length":3599,"videotype":"Listen"}
           
           
       },
@@ -640,7 +641,8 @@
         "312":{"title":"YTP - Peter-Man 2"},
         "313":{"title":"Two Hour Testament"},
         "314":{"title":"(VOD, Part 1) Space Jam Charity SLAM!"},
-        "315":{"title":". . ."}
+        "315":{"title":"AB - Put That Shit On (10 Hours)"},
+        "316":{"title":". . ."}
         
         },
         
