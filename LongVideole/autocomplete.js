@@ -267,7 +267,7 @@ const songTitles = [
     "ONE: Season One (Episodes 1-9)",
     "ONE: Season Two (Episodes 10-18)",
     "I Survived 24 Hours Watching Only Memes",
-    "How to survive alone in L4D1 campaigns (Realism, Expert) – Tips & Tricks",
+    "HOW TO SURVIVE ALONE IN L4D1 CAMPAIGNS (REALISM EXPERT)",
     "Left 4 Dead 2 - No Mercy (Unutterable Difficulty) (Legacy Version)",
     "Metal Gear Solid V Longplay Walkthrough [Ground Zeroes+The Phantom Pain] Full Gameplay",
     "The Worst Game of 2023",
