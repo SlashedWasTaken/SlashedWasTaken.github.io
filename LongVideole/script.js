@@ -557,18 +557,16 @@ function compareFunction(choiceData, mysterySong) {
 
 }
 
-function secondsToMin(seconds) {
-    let min = Math.floor(seconds / 60)
-    let secondsRemaining = seconds % 60
-
-        if (secondsRemaining > 9) {
-        return min + ":" + secondsRemaining
-    }
-
-    else {
-        return min + ":0" + secondsRemaining
-    }
+function secondsToHMS(seconds) {
+    let hours = Math.floor(seconds / 3600);
+    let minutes = Math.floor((seconds % 3600) / 60);
+    let secondsRemaining = seconds % 60;
+    let hoursStr = hours.toString().padStart(2, '0');
+    let minutesStr = minutes.toString().padStart(2, '0');
+    let secondsStr = secondsRemaining.toString().padStart(2, '0');
+    return `${hoursStr}:${minutesStr}:${secondsStr}`;
 }
+
 
 /** assumes array elements are primitive types
 * check whether 2 arrays are equal sets.
@@ -607,7 +605,7 @@ function addRow(choiceData, result) {
     // Track Length
     const lengthCell = document.createElement('td')
     lengthCell.classList.add('length-cell')
-    lengthCell.innerText = secondsToMin(choiceData.length)
+    lengthCell.innerText = secondsToHMS(choiceData.length)
     lengthCell.className += " " + result["length"]
 
     // Date Published
