@@ -561,10 +561,10 @@ function secondsToHMS(seconds) {
     let hours = Math.floor(seconds / 3600);
     let minutes = Math.floor((seconds % 3600) / 60);
     let secondsRemaining = seconds % 60;
-    let hoursStr = hours.toString().padStart(2, '0');
-    let minutesStr = minutes.toString().padStart(2, '0');
+    let hoursStr = hours > 0 ? hours + ':' : '';
+    let minutesStr = minutes.toString().padStart(hours > 0 ? 2 : 1, '0');
     let secondsStr = secondsRemaining.toString().padStart(2, '0');
-    return `${hoursStr}:${minutesStr}:${secondsStr}`;
+    return `${hoursStr}${minutesStr}:${secondsStr}`;
 }
 
 
