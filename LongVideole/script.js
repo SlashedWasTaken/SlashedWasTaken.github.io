@@ -725,7 +725,7 @@ function scoreText() {
 }
 
 function formatScoreText(resultsArray) {
-    let formattedScoreText = "LONG VIDEOLE #" + longvideoleDay + " 🎉: " + (Number(guessCount) - 1) + "/" + maxGuesses + "\n"  //+ "\n"
+    let formattedScoreText = "LONG VIDEOLE #" + longvideoleDay + ": " + (Number(guessCount) - 1) + "/" + maxGuesses + "\n"  //+ "\n"
     for (e of resultsArray) {
         formattedScoreText += "\n" + e.join("")
     }
