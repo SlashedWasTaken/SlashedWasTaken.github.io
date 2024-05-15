@@ -57,7 +57,7 @@ function dateDiffInDays(a, b) {
 }
 
 // test it
-const a = new Date("2024-02-03"),
+const a = new Date("2024-05-15"),
     b = new Date();
 const tzAdj = a.getTimezoneOffset();
 const aAdjusted = new Date(a.getTime() + tzAdj * 60000);
@@ -262,7 +262,7 @@ function resetGameState() {
 async function getRandomMysterySong() {
     newMysterySong()
 //console.log(mysteryNumber)
-await fetch('/datasheetNoSkit.json')
+await fetch('/datasheetNoSkitbrave.json')
     .then(response => response.json())
     .then(data => {
         
