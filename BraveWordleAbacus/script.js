@@ -453,6 +453,33 @@ function mainStatisticsL() {
 
 function compareFunction(choiceData, mysterySong) {
 
+    // Album Comparison
+    if (choiceData.album === mysterySong.album) {
+        result.album = "green";
+    }
+
+    else if (choiceData.album - mysterySong.album >= -2
+        && choiceData.album - mysterySong.album <= 2
+        && choiceData.album - mysterySong.album != 0
+        && choiceData.album - mysterySong.album < 0) {
+        result.album = "yellow up";
+    }
+
+    else if (choiceData.album - mysterySong.album >= -2
+        && choiceData.album - mysterySong.album <= 2
+        && choiceData.album - mysterySong.album != 0
+        && choiceData.album - mysterySong.album > 0) {
+        result.album = "yellow down";
+    }
+
+    else if (choiceData.album - mysterySong.album < 0) {
+        result.album = "grey up";
+    }
+
+    else if (choiceData.album - mysterySong.album > 0) {
+        result.album = "grey down";
+    }
+
 
     // Title Comparison
     if (choiceData.title === mysterySong.title) {
