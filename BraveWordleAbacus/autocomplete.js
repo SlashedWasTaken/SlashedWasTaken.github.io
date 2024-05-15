@@ -1,15 +1,10 @@
 const songTitles = [
 
-    "The Buffalo"
+        "The Buffalo",
 	"You’re Not Me But Neither Am I",
 	"Imaginary Peaks, Imaginary Beasts",
 	"El Capitano",
 	
-	"I by Matt Aspinwall",
-	"II by Matt Aspinwall",
-	"III by Matt Aspinwall",
-	"IV by Matt Aspinwall",
-	"V by Matt Aspinwall",
 	"Sol",
 	"(Yes, He Did Help Overthrow Fulgencio Batista, But​) Che Guevara Didn't Wear His Own T​-​Shirts",
 	"Good Atmosphere",
