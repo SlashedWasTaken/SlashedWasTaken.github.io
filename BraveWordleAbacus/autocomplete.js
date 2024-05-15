@@ -6,7 +6,7 @@ const songTitles = [
 	"El Capitano",
 	
 	"Sol",
-	"(Yes, He Did Help Overthrow Fulgencio Batista, But​) Che Guevara Didn't Wear His Own T​-​Shirts",
+	"(Yes, He Did Help Overthrow Fulgencio Batista, But​) Che Guevara Didn’t Wear His Own T​-​Shirts",
 	"Good Atmosphere",
 	"Untitled",
 	"El Capitano (Different Mix)",
