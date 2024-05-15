@@ -1,18 +1,18 @@
 const songTitles = [
 
         "The Buffalo",
-	"You’re Not Me But Neither Am I",
+	"You're Not Me But Neither Am I",
 	"Imaginary Peaks, Imaginary Beasts",
 	"El Capitano",
 	
 	"Sol",
-	"(Yes, He Did Help Overthrow Fulgencio Batista, But​) Che Guevara Didn’t Wear His Own T​-​Shirts",
+	"(Yes, He Did Help Overthrow Fulgencio Batista, But​) Che Guevara Didn't Wear His Own T​-​Shirts",
 	"Good Atmosphere",
 	"Untitled",
 	"El Capitano (Different Mix)",
 	
 	"I See It Too.",
-	"“But I Won’t Always Be on the Receiving End!”",
+	"“But I Won't Always Be on the Receiving End!”",
 	"A Map of the Stars",
 	"Waiting For Your Return, Like Running Backwards",
 	"(Through Hallways)",
