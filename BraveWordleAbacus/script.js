@@ -617,6 +617,19 @@ function addRow(choiceData, result) {
     lengthCell.innerText = secondsToMin(choiceData.length)
     lengthCell.className += " " + result["length"]
 
+    function secondsToMin(seconds) {
+    let min = Math.floor(seconds / 60)
+    let secondsRemaining = seconds % 60
+
+    if (secondsRemaining > 9) {
+        return min + ":" + secondsRemaining
+    }
+
+    else {
+        return min + ":0" + secondsRemaining
+    }
+}
+
 
     newRow.appendChild(songCell)
     newRow.appendChild(albumCell)
