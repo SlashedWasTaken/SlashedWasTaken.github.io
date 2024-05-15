@@ -289,7 +289,7 @@ await fetch('/datasheetNoSkitbrave.json')
 
 }
 async function doubleTrouble() {
-    await fetch('/datasheetNoSkit.json')
+    await fetch('/datasheetNoSkitbrave.json')
         .then(response => response.json())
         .then(data => {
         mysterySong = data.songs[mysteryDouble]
