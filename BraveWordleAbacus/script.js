@@ -347,7 +347,7 @@ async function compareSong(choice) {
         // 5 second timeout:
         const timeoutId = setTimeout(() => controller.abort(), 400)
         
-        await fetch('/datasheetNoSkit.json', { signal: controller.signal })
+        await fetch('/datasheetNoSkitbrave.json', { signal: controller.signal })
         .then(response => response.json())
         .then(data => {
             
