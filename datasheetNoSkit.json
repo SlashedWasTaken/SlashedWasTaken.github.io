@@ -320,7 +320,8 @@
 "AB - Put That Shit On (10 Hours)": {"title":"AB - Put That Shit On (10 Hours)","datepublished":2024,"track":315, "length":36060,"videotype":"Listen"},
 ". . .": {"title":". . .","datepublished":2023,"track":316, "length":3599,"videotype":"Listen"},
 "long cube": {"title":"long cube","datepublished":2022,"track":317, "length":104055,"videotype":"Listen"},
-"Npesta Sludge": {"title":"Npesta Sludge","datepublished":2023,"track":318, "length":3925,"videotype":"Listen"}
+"Npesta Sludge": {"title":"Npesta Sludge","datepublished":2023,"track":318, "length":3925,"videotype":"Listen"},
+"bazinga 1 hour": {"title":"bazinga 1 hour","datepublished":2018,"track":319, "length":3600,"videotype":"Listen"}
           
           
       },
@@ -646,7 +647,8 @@
         "315":{"title":"AB - Put That Shit On (10 Hours)"},
         "316":{"title":". . ."},
         "317":{"title":"long cube"},
-        "318":{"title":"Npesta Sludge"}
+        "318":{"title":"Npesta Sludge"},
+        "319":{"title":"bazinga 1 hour"}
         
         },
         
