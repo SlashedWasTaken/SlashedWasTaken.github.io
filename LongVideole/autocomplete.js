@@ -319,6 +319,7 @@ const songTitles = [
     "long cube",
     "Npesta Sludge",
     "bazinga 1 hour",
+    "Edge Of Destiny (NEW HARDEST) by CDMusic & More | Geometry Dash",
     
 ]
 
