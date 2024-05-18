@@ -321,7 +321,8 @@
 ". . .": {"title":". . .","datepublished":2023,"track":316, "length":3599,"videotype":"Listen"},
 "long cube": {"title":"long cube","datepublished":2022,"track":317, "length":104055,"videotype":"Listen"},
 "Npesta Sludge": {"title":"Npesta Sludge","datepublished":2023,"track":318, "length":3925,"videotype":"Listen"},
-"bazinga 1 hour": {"title":"bazinga 1 hour","datepublished":2018,"track":319, "length":3600,"videotype":"Listen"}
+"bazinga 1 hour": {"title":"bazinga 1 hour","datepublished":2018,"track":319, "length":3600,"videotype":"Listen"},
+"Edge Of Destiny (NEW HARDEST) by CDMusic & More | Geometry Dash": {"title":"Edge Of Destiny (NEW HARDEST) by CDMusic & More | Geometry Dash","datepublished":2023,"track":320, "length":8593,"videotype":"Watch"}
           
           
       },
@@ -648,7 +649,8 @@
         "316":{"title":". . ."},
         "317":{"title":"long cube"},
         "318":{"title":"Npesta Sludge"},
-        "319":{"title":"bazinga 1 hour"}
+        "319":{"title":"bazinga 1 hour"},
+        "320":{"title":"Edge Of Destiny (NEW HARDEST) by CDMusic & More | Geometry Dash"}
         
         },
         
