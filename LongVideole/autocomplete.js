@@ -321,6 +321,7 @@ const songTitles = [
     "bazinga 1 hour",
     "Edge Of Destiny (NEW HARDEST) by CDMusic & More | Geometry Dash",
     "Leyland Kirby -- We drink to forget the coming storm (2014) [full album]",
+    "Spider-Man 2: The Game Pizza Theme 10 HOURS",
     
 ]
 
