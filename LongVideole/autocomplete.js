@@ -325,6 +325,8 @@ const songTitles = [
     "611",
     "1396",
     "10 hours with Roxbury Guys (Jim Carrey, new CD)",
+    "Minecraft All Advancements TAS World Record",
+    "Tower of Cruel Punishment - Clear",
     
 ]
 
