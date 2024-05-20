@@ -327,7 +327,9 @@
 "Spider-Man 2: The Game Pizza Theme 10 HOURS": {"title":"Spider-Man 2: The Game Pizza Theme 10 HOURS","datepublished":2017,"track":322, "length":36154,"videotype":"Listen"},
 "611": {"title":"611","datepublished":2023,"track":323, "length":7369,"videotype":"Watch"},
 "1396": {"title":"1396","datepublished":2021,"track":324, "length":4369,"videotype":"Watch"},
-"10 hours with Roxbury Guys (Jim Carrey, new CD)": {"title":"10 hours with Roxbury Guys (Jim Carrey, new CD)","datepublished":2012,"track":325, "length":35999,"videotype":"Listen"}
+"10 hours with Roxbury Guys (Jim Carrey, new CD)": {"title":"10 hours with Roxbury Guys (Jim Carrey, new CD)","datepublished":2012,"track":325, "length":35999,"videotype":"Listen"},
+"Minecraft All Advancements TAS World Record": {"title":"Minecraft All Advancements TAS World Record","datepublished":2023,"track":326, "length":3619,"videotype":"Watch"},
+"Tower of Cruel Punishment - Clear": {"title":"Tower of Cruel Punishment - Clear","datepublished":2024,"track":327, "length":3020,"videotype":"Watch"}
           
       },
       
@@ -659,7 +661,9 @@
         "322":{"title":"Spider-Man 2: The Game Pizza Theme 10 HOURS"},
         "323":{"title":"611"},
         "324":{"title":"1396"},
-        "325":{"title":"10 hours with Roxbury Guys (Jim Carrey, new CD)"}
+        "325":{"title":"10 hours with Roxbury Guys (Jim Carrey, new CD)"},
+        "326":{"title":"Minecraft All Advancements TAS World Record"},
+        "327":{"title":"Tower of Cruel Punishment - Clear"}
         
         },
         
