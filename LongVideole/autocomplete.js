@@ -328,6 +328,7 @@ const songTitles = [
     "Minecraft All Advancements TAS World Record",
     "Tower of Cruel Punishment - Clear",
     "Roblox pain v3 completion | keen badge",
+    "Bad Apple slowed down to 10 hours",
     
 ]
 
