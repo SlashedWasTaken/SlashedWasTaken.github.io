@@ -330,7 +330,8 @@
 "10 hours with Roxbury Guys (Jim Carrey, new CD)": {"title":"10 hours with Roxbury Guys (Jim Carrey, new CD)","datepublished":2012,"track":325, "length":35999,"videotype":"Listen"},
 "Minecraft All Advancements TAS World Record": {"title":"Minecraft All Advancements TAS World Record","datepublished":2023,"track":326, "length":3619,"videotype":"Watch"},
 "Tower of Cruel Punishment - Clear": {"title":"Tower of Cruel Punishment - Clear","datepublished":2024,"track":327, "length":3020,"videotype":"Watch"},
-"Roblox pain v3 completion | keen badge": {"title":"Roblox pain v3 completion | keen badge","datepublished":2023,"track":328, "length":4105,"videotype":"Watch"}
+"Roblox pain v3 completion | keen badge": {"title":"Roblox pain v3 completion | keen badge","datepublished":2023,"track":328, "length":4105,"videotype":"Watch"},
+"Bad Apple slowed down to 10 hours": {"title":"Bad Apple slowed down to 10 hours","datepublished":2021,"track":329, "length":36000,"videotype":"Watch"}
           
       },
       
@@ -665,7 +666,8 @@
         "325":{"title":"10 hours with Roxbury Guys (Jim Carrey, new CD)"},
         "326":{"title":"Minecraft All Advancements TAS World Record"},
         "327":{"title":"Tower of Cruel Punishment - Clear"},
-        "328":{"title":"Roblox pain v3 completion | keen badge"}
+        "328":{"title":"Roblox pain v3 completion | keen badge"},
+        "329":{"title":"Bad Apple slowed down to 10 hours"}
         
         },
         
