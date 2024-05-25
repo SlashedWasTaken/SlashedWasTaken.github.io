@@ -330,6 +330,7 @@ const songTitles = [
     "Roblox pain v3 completion | keen badge",
     "Bad Apple slowed down to 10 hours",
     "nerd emoji sound but it gradually gets faster for 1 hour",
+    "Mandela Catalogue (FULL SERIES)",
     
 ]
 
