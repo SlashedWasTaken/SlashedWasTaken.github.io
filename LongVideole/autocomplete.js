@@ -333,6 +333,10 @@ const songTitles = [
     "Mandela Catalogue (FULL SERIES)",
     "I Beat The Impossible Quiz Book",
     "Clair de Lune (Extended)",
+    "HOME | Tides 1 HOUR (432 hz) (slowed + reverb) // HD ASMR",
+    "Egoless (but good)",
+    "Deltarune - Hip Shop stretched to 1 Hour",
+    "Undertale - Dogsong stretched to 1 Hour",
     
 ]
 
