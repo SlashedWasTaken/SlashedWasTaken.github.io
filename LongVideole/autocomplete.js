@@ -332,6 +332,7 @@ const songTitles = [
     "nerd emoji sound but it gradually gets faster for 1 hour",
     "Mandela Catalogue (FULL SERIES)",
     "I Beat The Impossible Quiz Book",
+    "Clair de Lune (Extended)",
     
 ]
 
