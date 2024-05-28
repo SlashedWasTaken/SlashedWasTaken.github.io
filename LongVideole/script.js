@@ -1,4 +1,11 @@
+// MUST BE SAME NUMBER AS OBJECTS IN JSON FILE. MATH SECTION. math section. Math Section.
+function newMysterySong() {
+    Math.seedrandom(today);
+    mysteryNumber = Math.floor(Math.random() * 338) + 1;
 
+    console.log(today)
+    //console.log(mysteryNumber + " is created.");
+}
 // 47a4f79b-9bda-4259-8170-a0f390ee7443
 
 var result = { "title": "DJ Khaled" }
@@ -309,18 +316,6 @@ async function doubleTrouble() {
     //console.log(mysterySong.title + " is todays song!");
 }
 */
-
-// MUST BE SAME NUMBER AS OBJECTS IN JSON FILE. MATH SECTION. math section. Math Section.
-function newMysterySong() {
-    Math.seedrandom(today);
-    mysteryNumber = Math.floor(Math.random() * 337) + 1;
-
-    console.log(today)
-    //console.log(mysteryNumber + " is created.");
-}
-
-
-
 
 async function compareSong(choice) {
 
