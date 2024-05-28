@@ -337,6 +337,7 @@ const songTitles = [
     "Egoless (but good)",
     "Deltarune - Hip Shop stretched to 1 Hour",
     "Undertale - Dogsong stretched to 1 Hour",
+    "Togekiss (With you friends, long flight)",
     
 ]
 
