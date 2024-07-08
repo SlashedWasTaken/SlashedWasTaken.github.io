@@ -341,7 +341,8 @@
 "Deltarune - Hip Shop stretched to 1 Hour": {"title":"Deltarune - Hip Shop stretched to 1 Hour","datepublished":2023,"track":336, "length":3600,"videotype":"Listen"},
 "Undertale - Dogsong stretched to 1 Hour": {"title":"Undertale - Dogsong stretched to 1 Hour","datepublished":2022,"track":337, "length":3609,"videotype":"Listen"},
 "Togekiss (With you friends, long flight)": {"title":"Togekiss (With you friends, long flight)","datepublished":2012,"track":338, "length":12812,"videotype":"Listen"},
-"gyroid effects history effects": {"title":"gyroid effects history effects","datepublished":2021,"track":339, "length":5320,"videotype":"Watch"}
+"gyroid effects history effects": {"title":"gyroid effects history effects","datepublished":2021,"track":339, "length":5320,"videotype":"Watch"},
+"Windows XP Startup Sound slowed down to 24 hours": {"title":"Windows XP Startup Sound slowed down to 24 hours","datepublished":2016,"track":340, "length":86399,"videotype":"Listen"}
           
       },
       
@@ -687,7 +688,8 @@
         "336":{"title":"Deltarune - Hip Shop stretched to 1 Hour"},
         "337":{"title":"Undertale - Dogsong stretched to 1 Hour"},
         "338":{"title":"Togekiss (With you friends, long flight)"},
-        "339":{"title":"gyroid effects history effects"}
+        "339":{"title":"gyroid effects history effects"},
+        "340":{"title":"Windows XP Startup Sound slowed down to 24 hours"}
         
         },
         
