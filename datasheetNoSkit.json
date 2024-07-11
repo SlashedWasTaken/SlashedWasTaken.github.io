@@ -343,7 +343,8 @@
 "Togekiss (With you friends, long flight)": {"title":"Togekiss (With you friends, long flight)","datepublished":2012,"track":338, "length":12812,"videotype":"Listen"},
 "gyroid effects history effects": {"title":"gyroid effects history effects","datepublished":2021,"track":339, "length":5320,"videotype":"Watch"},
 "Windows XP Startup Sound slowed down to 24 hours": {"title":"Windows XP Startup Sound slowed down to 24 hours","datepublished":2016,"track":340, "length":86399,"videotype":"Listen"},
-"Identifying Luck: Mario Party 1": {"title":"Identifying Luck: Mario Party 1","datepublished":2019,"track":341, "length":5662,"videotype":"Watch"}          
+"Identifying Luck: Mario Party 1": {"title":"Identifying Luck: Mario Party 1","datepublished":2019,"track":341, "length":5662,"videotype":"Watch"},
+"Cynthoni - Not The Essential Mix": {"title":"Cynthoni - Not The Essential Mix","datepublished":2024,"track":342, "length":7198,"videotype":"Listen"}
           
       },
       
@@ -691,7 +692,8 @@
         "338":{"title":"Togekiss (With you friends, long flight)"},
         "339":{"title":"gyroid effects history effects"},
         "340":{"title":"Windows XP Startup Sound slowed down to 24 hours"},
-        "341":{"title":"Identifying Luck: Mario Party 1"}
+        "341":{"title":"Identifying Luck: Mario Party 1"},
+        "342":{"title":"Cynthoni - Not The Essential Mix"}
         
         },
         
