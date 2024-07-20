@@ -197,7 +197,7 @@ const songTitles = [
     "The Mine Song but every mine is replaced with The Mine Song",
     "3",
     "US Presidents Play Wii Sports Resort Supercut (Part 1-6)",
-    "Lucky Star FULL 1-12 Eng Dub",
+    "Lucky Star FULL 1-24 Eng Dub",
     "Playstation 2 System Menu Ambience + Silent Hill 2 Ambience (6 Hour Ambient, Relaxing Music)",
     "Steamed Hams but every repeated word loops back to it's last use",
     "Don’t eat in the halls 1 hour loop",
