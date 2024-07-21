@@ -342,6 +342,8 @@ const songTitles = [
     "Windows XP Startup Sound slowed down to 24 hours",
     "Identifying Luck: Mario Party 1",
     "Cynthoni - Not The Essential Mix",
+    "This Trackmania Map Took Me OVER 50 HOURS | Deep Dip 2: Shallow Dip!",
+    "The CRAZIEST Parkour I've Ever Played | Hypixel Housing",
     
 ]
 
