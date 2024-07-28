@@ -344,6 +344,7 @@ const songTitles = [
     "Cynthoni - Not The Essential Mix",
     "This Trackmania Map Took Me OVER 50 HOURS | Deep Dip 2: Shallow Dip!",
     "The CRAZIEST Parkour I've Ever Played | Hypixel Housing",
+    "Minecraft 1.21 All Advancements TAS",
     
 ]
 
