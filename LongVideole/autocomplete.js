@@ -346,7 +346,7 @@ const songTitles = [
     "The CRAZIEST Parkour I've Ever Played | Hypixel Housing",
     "Minecraft 1.21 All Advancements TAS",
     "The History of the Mario Kart DS World Champion",
-    "Albuquerque but everytime they say Albuquerque the video restarts".
+    "Albuquerque but everytime they say Albuquerque the video restarts",
     
 ]
 
