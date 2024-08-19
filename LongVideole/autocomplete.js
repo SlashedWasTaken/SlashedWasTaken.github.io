@@ -349,6 +349,7 @@ const songTitles = [
     "Albuquerque but everytime they say Albuquerque the video restarts",
     "Kingdom Hearts 2: Highlights [WayneradioTV fan edit]",
     "glass beach - the first glass beach album [full album] (2019)",
+    "Pizza Tower Highlights [WayneradioTV fan edit]",
     
 ]
 
