@@ -72,7 +72,7 @@ const songTitles = [
     "SNOWY: EXCEPT IT KEEPS GETTING SLOWER",
     "Zone 4 tower rush (full run)",
     "Left 4 Dead 2 - No Mercy (Pandemonium Difficulty) (Legacy Version)",
-    "JToH - Ring 7 Tower Rush (WR?) | Full Completion (Livestream)",
+    "Ring 7 Tower Rush | Full Completion",
     "Cantina Band - 10 Hour Loop",
     "Nyan Cat 12 hours (8K)",
     "How Speedrunners Conquered The World's Hardest Game",
