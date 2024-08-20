@@ -350,6 +350,7 @@ const songTitles = [
     "Kingdom Hearts 2: Highlights [WayneradioTV fan edit]",
     "glass beach - the first glass beach album [full album] (2019)",
     "Pizza Tower Highlights [WayneradioTV fan edit]",
+    "glass beach - plastic death (Full Album Stream)",
     
 ]
 
