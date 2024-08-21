@@ -62,7 +62,7 @@ const songTitles = [
     "Full Earthbound Soundtrack",
     "Wii Play - Tanks - Missions 1-100 Complete",
     "How To Make a Slow Cooked Beef Stew",
-    "Ring 8 Tower Rush",
+    "Ring 8 Tower Rush - Completion",
     "neverending worriedness",
     "300 YO MAMA JOKES - Can you watch them all?",
     "Left 4 Dead 2 - No Mercy (Cataclysmic Difficulty) (Legacy Version)",
