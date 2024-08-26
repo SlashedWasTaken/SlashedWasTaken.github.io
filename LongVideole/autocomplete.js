@@ -351,6 +351,8 @@ const songTitles = [
     "glass beach - the first glass beach album [full album] (2019)",
     "Pizza Tower Highlights [WayneradioTV fan edit]",
     "glass beach - plastic death (Full Album Stream)",
+    "How speedrunners beat Half-Life 2 in under 38 minutes (SPEEDRUN EXPLAINED - Any% No Voidclip)",
+    "Heavy Rain vs Disco Elysium - Good & Bad Cop Games",
     
 ]
 
