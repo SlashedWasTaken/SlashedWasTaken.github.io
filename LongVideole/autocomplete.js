@@ -353,6 +353,7 @@ const songTitles = [
     "glass beach - plastic death (Full Album Stream)",
     "How speedrunners beat Half-Life 2 in under 38 minutes (SPEEDRUN EXPLAINED - Any% No Voidclip)",
     "Heavy Rain vs Disco Elysium - Good & Bad Cop Games",
+    "Scott Pilgrim Critique (And Why the Show Succeeds)",
     
 ]
 
