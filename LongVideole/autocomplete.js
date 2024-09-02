@@ -354,6 +354,7 @@ const songTitles = [
     "How speedrunners beat Half-Life 2 in under 38 minutes (SPEEDRUN EXPLAINED - Any% No Voidclip)",
     "Heavy Rain vs Disco Elysium - Good & Bad Cop Games",
     "Scott Pilgrim Critique (And Why the Show Succeeds)",
+    "SlashedPort's Magnum Opus",
     
 ]
 
