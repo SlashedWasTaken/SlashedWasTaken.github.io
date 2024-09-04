@@ -355,6 +355,7 @@ const songTitles = [
     "Heavy Rain vs Disco Elysium - Good & Bad Cop Games",
     "Scott Pilgrim Critique (And Why the Show Succeeds)",
     "SlashedPort's Magnum Opus",
+    "THE PRICE IS NICE: a steam dream - Part 1 - Bad Steam Game Price Guessing GAMESHOW (WAYNERADIOTV)",
     
 ]
 
