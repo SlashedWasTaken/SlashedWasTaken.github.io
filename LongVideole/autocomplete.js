@@ -358,6 +358,7 @@ const songTitles = [
     "THE PRICE IS NICE: a steam dream - Part 1 - Bad Steam Game Price Guessing GAMESHOW (WAYNERADIOTV)",
     "Creed - Higher [1 HOUR]",
     "I will delete this video at 1 million views.",
+    "Earth, Wind & Fire - September stretched to 10 hours",
     
 ]
 
