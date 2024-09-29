@@ -37,7 +37,7 @@ const songTitles = [
     "I Wanna Kill The Kamilia 3 - 100% Walkthrough (V1.50)",
     "RNG Dungeon",
     "(FAN-MIXED) Neil Cicierega - Mouth Mistakes",
-    "Man In Cave",
+    "Man in Cave",
     "『Inabakumori』 33 Songs Medley　【PlayList】",
     "Garden of Eeshöl Tower Rush [JToH]",
     "spongebob huh 1 hour",
