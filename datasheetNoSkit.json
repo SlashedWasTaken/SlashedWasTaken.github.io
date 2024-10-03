@@ -363,7 +363,8 @@
 "I will delete this video at 1 million views.": {"title":"I will delete this video at 1 million views.","datepublished":2024,"track":358, "length":18744,"videotype":"Watch"},
 "Earth, Wind & Fire - September stretched to 10 hours": {"title":"Earth, Wind & Fire - September stretched to 10 hours","datepublished":2021,"track":359, "length":36000,"videotype":"Watch"},
 "Xbox 360 stretched to 1 hour": {"title":"Xbox 360 stretched to 1 hour","datepublished":2022,"track":360, "length":3600,"videotype":"Watch"},
-"Man in Cave (Reupload)": {"title":"Man in Cave (Reupload)","datepublished":2023,"track":361, "length":4448,"videotype":"Watch"}
+"Man in Cave (Reupload)": {"title":"Man in Cave (Reupload)","datepublished":2023,"track":361, "length":4448,"videotype":"Watch"},
+"Triple baka Hatsune Miku 4k 10 hour": {"title":"Triple baka Hatsune Miku 4k 10 hour","datepublished":2024,"track":362, "length":36063,"videotype":"Listen"}
 
 
 
@@ -733,7 +734,8 @@
         "358":{"title":"I will delete this video at 1 million views."},
         "359":{"title":"Earth, Wind & Fire - September stretched to 10 hours"},
         "360":{"title":"Xbox 360 stretched to 1 hour"},
-        "361":{"title":"Man in Cave (Reupload)"}
+        "361":{"title":"Man in Cave (Reupload)"},
+        "362":{"title":"Triple baka Hatsune Miku 4k 10 hour"}
         
         },
         
