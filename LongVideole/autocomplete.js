@@ -366,6 +366,7 @@ const songTitles = [
     "Our House 10 hours",
     "Farming 10,000,000 Melons in 100 Days (again)",
     "Red Ball Speedruns - The Quest for Perfection",
+    "Whiplash",
     
 ]
 
