@@ -371,8 +371,8 @@
 "Red Ball Speedruns - The Quest for Perfection": {"title":"Red Ball Speedruns - The Quest for Perfection","datepublished":2024,"track":366, "length":4868,"videotype":"Watch"},
 "Whiplash": {"title":"Whiplash","datepublished":2020,"track":367, "length":6404,"videotype":"Watch"},
 "Good Burger": {"title":"Good Burger","datepublished":2022,"track":368, "length":5718,"videotype":"Watch"},
-"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)": {"title":"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)","datepublished":2024,"track":369, "length":3077,"videotype":"Watch"}
-
+"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)": {"title":"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)","datepublished":2024,"track":369, "length":3077,"videotype":"Watch"},
+"Albuquerque but every time they repeat a word it loops": {"title":"Albuquerque but every time they repeat a word it loops","datepublished":2024,"track":370, "length":43068,"videotype":"Listen"}
 
 
       },
@@ -749,7 +749,8 @@
         "366":{"title":"Red Ball Speedruns - The Quest for Perfection"},
         "367":{"title":"Whiplash"},
         "368":{"title":"Good Burger"},
-        "369":{"title":"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)"}
+        "369":{"title":"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)"},
+        "370":{"title":"Albuquerque but every time they repeat a word it loops"}
         
         },
         
