@@ -370,6 +370,7 @@ const songTitles = [
     "Good Burger",
     "[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)",
     "Albuquerque but every time they repeat a word it loops",
+    "Heavy Rain Highlights [Socpens/RTVS fan edit]",
     
 ]
 
