@@ -371,6 +371,7 @@ const songTitles = [
     "[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)",
     "Albuquerque but every time they repeat a word it loops",
     "Heavy Rain Highlights [Socpens/RTVS fan edit]",
+    "Identifying Luck: Mario Party 2",
     
 ]
 
