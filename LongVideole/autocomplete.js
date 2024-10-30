@@ -225,7 +225,7 @@ const songTitles = [
     "(OLD) Arcane Area Steeple Rush Completion",
     "Wii Sports Resort OST",
     "Zone 6 Tower Rush",
-    "7 (gugop delxue)",
+    "7",
     "Nutshack x256",
     "Left 4 Dead OST",
     "kirkiimad & CG5 - ily [1 HOUR]",
