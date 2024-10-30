@@ -373,7 +373,8 @@
 "Good Burger": {"title":"Good Burger","datepublished":2022,"track":368, "length":5718,"videotype":"Watch"},
 "[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)": {"title":"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)","datepublished":2024,"track":369, "length":3077,"videotype":"Watch"},
 "Albuquerque but every time they repeat a word it loops": {"title":"Albuquerque but every time they repeat a word it loops","datepublished":2024,"track":370, "length":43068,"videotype":"Listen"},
-"Heavy Rain Highlights [Socpens/RTVS fan edit]": {"title":"Heavy Rain Highlights [Socpens/RTVS fan edit]","datepublished":2023,"track":371, "length":7336,"videotype":"Watch"}
+"Heavy Rain Highlights [Socpens/RTVS fan edit]": {"title":"Heavy Rain Highlights [Socpens/RTVS fan edit]","datepublished":2023,"track":371, "length":7336,"videotype":"Watch"},
+"Identifying Luck: Mario Party 2": {"title":"Identifying Luck: Mario Party 2","datepublished":2019,"track":372, "length":7503,"videotype":"Watch"}
 
 
       },
@@ -752,8 +753,8 @@
         "368":{"title":"Good Burger"},
         "369":{"title":"[UPDATED 2024] Red Ball - Beginner Speedrun Tutorial (Get a Sub 4 on Your First Day!)"},
         "370":{"title":"Albuquerque but every time they repeat a word it loops"},
-        "371":{"title":"Heavy Rain Highlights [Socpens/RTVS fan edit]"}
-        
+        "371":{"title":"Heavy Rain Highlights [Socpens/RTVS fan edit]"},
+        "372":{"title":"Identifying Luck: Mario Party 2"}
         },
         
     "results":
