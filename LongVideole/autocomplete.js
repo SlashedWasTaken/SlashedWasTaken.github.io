@@ -372,6 +372,7 @@ const songTitles = [
     "Albuquerque but every time they repeat a word it loops",
     "Heavy Rain Highlights [Socpens/RTVS fan edit]",
     "Identifying Luck: Mario Party 2",
+    "「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]",
     
 ]
 
