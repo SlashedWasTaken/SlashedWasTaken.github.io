@@ -373,6 +373,7 @@ const songTitles = [
     "Heavy Rain Highlights [Socpens/RTVS fan edit]",
     "Identifying Luck: Mario Party 2",
     "「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]",
+    "The History of The Simpsons Hit & Run World Records",
     
 ]
 
