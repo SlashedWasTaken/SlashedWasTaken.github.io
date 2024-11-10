@@ -375,7 +375,8 @@
 "Albuquerque but every time they repeat a word it loops": {"title":"Albuquerque but every time they repeat a word it loops","datepublished":2024,"track":370, "length":43068,"videotype":"Listen"},
 "Heavy Rain Highlights [Socpens/RTVS fan edit]": {"title":"Heavy Rain Highlights [Socpens/RTVS fan edit]","datepublished":2023,"track":371, "length":7336,"videotype":"Watch"},
 "Identifying Luck: Mario Party 2": {"title":"Identifying Luck: Mario Party 2","datepublished":2019,"track":372, "length":7503,"videotype":"Watch"},
-"「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]": {"title":"「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]","datepublished":2021,"track":373, "length":7169,"videotype":"Watch"}
+"「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]": {"title":"「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]","datepublished":2021,"track":373, "length":7169,"videotype":"Watch"},
+"The History of The Simpsons Hit & Run World Records": {"title":"The History of The Simpsons Hit & Run World Records","datepublished":2024,"track":374, "length":4366,"videotype":"Watch"},
 
 
       },
@@ -756,7 +757,9 @@
         "370":{"title":"Albuquerque but every time they repeat a word it loops"},
         "371":{"title":"Heavy Rain Highlights [Socpens/RTVS fan edit]"},
         "372":{"title":"Identifying Luck: Mario Party 2"},
-        "373":{"title":"「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]"}
+        "373":{"title":"「マジカルミライ 2016」Magical Mirai 2016 Full Concert [1080p 60fps]"},
+        "374":{"title":"The History of The Simpsons Hit & Run World Records"}
+        
         },
         
     "results":
