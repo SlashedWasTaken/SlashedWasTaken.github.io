@@ -357,7 +357,7 @@ const songTitles = [
     "SlashedPort's Magnum Opus",
     "THE PRICE IS NICE: a steam dream - Part 1 - Bad Steam Game Price Guessing GAMESHOW (WAYNERADIOTV)",
     "Creed - Higher [1 HOUR]",
-    "DELETING THIS VIDEO AT 1 MILLION VIEWS - 63,505 LEFT",
+    "DELETING THIS VIDEO AT 1 MILLION VIEWS - 10,535 LEFT",
     "Earth, Wind & Fire - September stretched to 10 hours",
     "Xbox 360 stretched to 1 hour",
     "Man in Cave (Reupload)",
