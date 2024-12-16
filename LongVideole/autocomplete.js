@@ -376,6 +376,7 @@ const songTitles = [
     "The History of The Simpsons Hit & Run World Records",
     "Everything You Know Is Wrong but everytime a word that has already been said is said, it loops",
     "Everything You Know is Wrong but every time it says one of the words in the title it starts over",
+    "Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]",
     
 ]
 
