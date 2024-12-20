@@ -379,7 +379,8 @@
 "The History of The Simpsons Hit & Run World Records": {"title":"The History of The Simpsons Hit & Run World Records","datepublished":2024,"track":374, "length":4366,"videotype":"Watch"},
 "Everything You Know Is Wrong but everytime a word that has already been said is said, it loops": {"title":"Everything You Know Is Wrong but everytime a word that has already been said is said, it loops","datepublished":2024,"track":375, "length":7550,"videotype":"Listen"},
 "Everything You Know is Wrong but every time it says one of the words in the title it starts over": {"title":"Everything You Know is Wrong but every time it says one of the words in the title it starts over","datepublished":2024,"track":376, "length":10488,"videotype":"Listen"},
-"Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]": {"title":"Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]","datepublished":2024,"track":377, "length":6799,"videotype":"Watch"}
+"Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]": {"title":"Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]","datepublished":2024,"track":377, "length":6799,"videotype":"Watch"},
+"everything you know is wrong but it restarts before a verb is said": {"title":"everything you know is wrong but it restarts before a verb is said","datepublished":2024,"track":378, "length":7181,"videotype":"Listen"}
           
 
       },
@@ -764,7 +765,8 @@
         "374":{"title":"The History of The Simpsons Hit & Run World Records"},
         "375":{"title":"Everything You Know Is Wrong but everytime a word that has already been said is said, it loops"},
         "376":{"title":"Everything You Know is Wrong but every time it says one of the words in the title it starts over"},
-        "377":{"title":"Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]"}
+        "377":{"title":"Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]"},
+        "378":{"title":"everything you know is wrong but it restarts before a verb is said"}
             
         
         },
