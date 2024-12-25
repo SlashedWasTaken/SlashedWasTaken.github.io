@@ -378,6 +378,8 @@ const songTitles = [
     "Everything You Know is Wrong but every time it says one of the words in the title it starts over",
     "Minecraft but I survive AGAIN in PARKOUR CIVILIZATION [FULL MOVIE]",
     "everything you know is wrong but it restarts before a verb is said",
+    "1 hour of the best Christmas Songs",
+    "Chromokopia, IGOR, Flower Boy Full Albums",
     
 ]
 
