@@ -380,6 +380,8 @@ const songTitles = [
     "everything you know is wrong but it restarts before a verb is said",
     "1 hour of the best Christmas Songs",
     "Chromokopia, IGOR, Flower Boy Full Albums",
+    "FE!N but every time he says fein the song restarts",
+    "The Polar Express",
     
 ]
 
