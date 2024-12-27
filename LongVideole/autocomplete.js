@@ -382,6 +382,7 @@ const songTitles = [
     "Chromokopia, IGOR, Flower Boy Full Albums",
     "FE!N but every time he says fein the song restarts",
     "The Polar Express",
+    "EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use",
     
 ]
 
