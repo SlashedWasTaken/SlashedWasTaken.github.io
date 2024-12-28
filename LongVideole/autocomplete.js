@@ -384,6 +384,7 @@ const songTitles = [
     "The Polar Express",
     "EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use",
     "​",
+    "HGSS Ho-Oh 1 hour loop",
     
 ]
 
