@@ -387,7 +387,8 @@
 "The Polar Express": {"title":"The Polar Express","datepublished":2022,"track":382, "length":5992,"videotype":"Watch"},
 "EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use": {"title":"EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use","datepublished":2024,"track":383, "length":4868,"videotype":"Listen"},
 "​": {"title":"​","datepublished":2024,"track":384, "length":79200,"videotype":"Listen"},
-"HGSS Ho-Oh 1 hour loop": {"title":"HGSS Ho-Oh 1 hour loop","datepublished":2010,"track":385, "length":3600,"videotype":"Listen"}
+"HGSS Ho-Oh 1 hour loop": {"title":"HGSS Ho-Oh 1 hour loop","datepublished":2010,"track":385, "length":3600,"videotype":"Listen"},
+"pendulum-hold your colour-full album": {"title":"pendulum-hold your colour-full album","datepublished":2009,"track":386, "length":4790,"videotype":"Listen"}
 
       },
       
@@ -779,7 +780,8 @@
         "382":{"title":"The Polar Express"},
         "383":{"title":"EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use"},
         "384":{"title":"​"},
-        "385":{"title":"HGSS Ho-Oh 1 hour loop"}
+        "385":{"title":"HGSS Ho-Oh 1 hour loop"},
+        "386":{"title":"pendulum-hold your colour-full album"}
             
         
         },
