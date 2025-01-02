@@ -388,6 +388,7 @@ const songTitles = [
     "pendulum-hold your colour-full album",
     "Rohan's Ask A Stupid Question - Full Album Streaming!",
     "Stardust - Music Sounds Better With You [1 HOUR LOOP]",
+    "The Batman OST - Something in the Way | Nirvana | 10 Hour Loop (Repeated & Extended)",
     
 ]
 
