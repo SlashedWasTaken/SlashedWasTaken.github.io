@@ -389,6 +389,9 @@ const songTitles = [
     "Rohan's Ask A Stupid Question - Full Album Streaming!",
     "Stardust - Music Sounds Better With You [1 HOUR LOOP]",
     "The Batman OST - Something in the Way | Nirvana | 10 Hour Loop (Repeated & Extended)",
+    "Mega Man X OST | All Maverick Stage Themes (X1~X8 + Extras) w/ Timestamps",
+    "ULTIMATE IShowSpeed Compilation",
+    "ВIink-182 ВIink-182 (Full Album)",
     
 ]
 
