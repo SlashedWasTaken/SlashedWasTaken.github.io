@@ -153,7 +153,7 @@ const songTitles = [
     "Zone 7 Tower Rush Speedrun",
     "diggy diggy hole 2 hours",
     "Zone 2 Tower Rush - Completion",
-    "Grееn Dау Аmеricаn ldiоt (Full Album)",
+    "GreenDay AmericanIdiot (Full Album)",
     "Flamingo - STILL CHILL (1 HOUR)",
     "pizza",
     "Zone 8 Tower Rush - Completion | Roblox JToH",
