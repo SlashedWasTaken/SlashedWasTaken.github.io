@@ -397,6 +397,7 @@ const songTitles = [
     "Blink 182 - All The Small Things 10 Hour NIGHT LIGHT Version",
     "[1 hour] Mustard Ballin' ft Roddy Ricch (sped up)",
     "Aquatic Ambiance 10 Hours - Donkey Kong Country",
+    "iwannaseethestars",
 ]
 
 
