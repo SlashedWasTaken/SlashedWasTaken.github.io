@@ -399,6 +399,7 @@ const songTitles = [
     "Aquatic Ambiance 10 Hours - Donkey Kong Country",
     "iwannaseethestars",
     "The Avoidance Complex",
+    "I Wanna Be The GBC - 100% Playthrough & Highlights!!!",
     
 ]
 
