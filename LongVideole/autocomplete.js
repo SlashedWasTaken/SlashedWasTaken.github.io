@@ -400,6 +400,8 @@ const songTitles = [
     "iwannaseethestars",
     "The Avoidance Complex",
     "I Wanna Be The GBC - 100% Playthrough & Highlights!!!",
+    "[TAS] I Wanna Be The MSR [MSR difficulty]",
+    "HIGHVERSITY",
     
 ]
 
