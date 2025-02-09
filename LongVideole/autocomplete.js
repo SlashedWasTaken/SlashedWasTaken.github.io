@@ -402,6 +402,9 @@ const songTitles = [
     "I Wanna Be The GBC - 100% Playthrough & Highlights!!!",
     "[TAS] I Wanna Be The MSR [MSR difficulty]",
     "HIGHVERSITY",
+    "I Wanna Kill The Happil 1",
+    "LEGO HIGHWARS",
+    "Amiga Longplay Pod",
     
 ]
 
