@@ -404,7 +404,11 @@
 "The Avoidance Complex": {"title":"The Avoidance Complex","datepublished":2023,"track":399, "length":3542,"videotype":"Watch"},
 "I Wanna Be The GBC - 100% Playthrough & Highlights!!!": {"title":"I Wanna Be The GBC - 100% Playthrough & Highlights!!!","datepublished":2021,"track":400, "length":30518,"videotype":"Watch"},
 "[TAS] I Wanna Be The MSR [MSR difficulty]": {"title":"[TAS] I Wanna Be The MSR [MSR difficulty]","datepublished":2022,"track":401, "length":4137,"videotype":"Watch"},
-"HIGHVERSITY": {"title":"HIGHVERSITY","datepublished":2024,"track":402, "length":4456,"videotype":"Watch"}
+"HIGHVERSITY": {"title":"HIGHVERSITY","datepublished":2024,"track":402, "length":4456,"videotype":"Watch"},
+"I Wanna Kill The Happil 1": {"title":"I Wanna Kill The Happil 1","datepublished":2021,"track":403, "length":3090,"videotype":"Watch"},
+"LEGO HIGHWARS": {"title":"LEGO HIGHWARS","datepublished":2025,"track":404, "length":4263,"videotype":"Watch"},
+"Amiga Longplay Pod": {"title":"Amiga Longplay Pod","datepublished":2007,"track":405, "length":3050,"videotype":"Watch"}
+
 
       },
       
@@ -813,7 +817,10 @@
         "399":{"title":"The Avoidance Complex"},
         "400":{"title":"I Wanna Be The GBC - 100% Playthrough & Highlights!!!"},
         "401":{"title":"[TAS] I Wanna Be The MSR [MSR difficulty]"},
-        "402":{"title":"HIGHVERSITY"}
+        "402":{"title":"HIGHVERSITY"},
+        "403":{"title":"I Wanna Kill The Happil 1"},
+        "404":{"title":"LEGO HIGHWARS"},
+        "405":{"title":"Amiga Longplay Pod"},
         
         },
         
