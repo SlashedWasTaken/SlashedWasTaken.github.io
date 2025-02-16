@@ -406,6 +406,7 @@ const songTitles = [
     "LEGO HIGHWARS",
     "Amiga Longplay Pod",
     "How is this man 2",
+    "MAD RAT ETERNITY (Full Album)",
     
 ]
 
