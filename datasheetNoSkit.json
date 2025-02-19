@@ -409,7 +409,9 @@
 "LEGO HIGHWARS": {"title":"LEGO HIGHWARS","datepublished":2025,"track":404, "length":4263,"videotype":"Watch"},
 "Amiga Longplay Pod": {"title":"Amiga Longplay Pod","datepublished":2007,"track":405, "length":3050,"videotype":"Watch"},
 "How is this man 2": {"title":"How is this man 2","datepublished":2025,"track":406, "length":6260,"videotype":"Watch"},
-"MAD RAT ETERNITY (Full Album)": {"title":"MAD RAT ETERNITY (Full Album)","datepublished":2022,"track":407, "length":3297,"videotype":"Listen"}
+"MAD RAT ETERNITY (Full Album)": {"title":"MAD RAT ETERNITY (Full Album)","datepublished":2022,"track":407, "length":3297,"videotype":"Listen"},
+"Fear of Dark": {"title":"Fear of Dark","datepublished":2025,"track":408, "length":3024,"videotype":"Watch"},
+"Roblox Myths Deserved Better": {"title":"Roblox Myths Deserved Better","datepublished":2024,"track":409, "length":3656,"videotype":"Watch"}
 
 
       },
@@ -824,7 +826,9 @@
         "404":{"title":"LEGO HIGHWARS"},
         "405":{"title":"Amiga Longplay Pod"},
         "406":{"title":"How is this man 2"},
-        "407":{"title":"MAD RAT ETERNITY (Full Album)"}
+        "407":{"title":"MAD RAT ETERNITY (Full Album)"},
+        "408":{"title":"Fear of Dark"},
+        "409":{"title":"Roblox Myths Deserved Better"}
         
         },
         
