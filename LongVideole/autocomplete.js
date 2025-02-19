@@ -407,6 +407,8 @@ const songTitles = [
     "Amiga Longplay Pod",
     "How is this man 2",
     "MAD RAT ETERNITY (Full Album)",
+    "Fear of Dark",
+    "Roblox Myths Deserved Better",
     
 ]
 
