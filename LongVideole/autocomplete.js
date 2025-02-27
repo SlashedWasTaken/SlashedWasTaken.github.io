@@ -411,6 +411,7 @@ const songTitles = [
     "Roblox Myths Deserved Better",
     "Movies Based on Creepypasta",
     "Jonochrome Vs The World",
+    "The Crazy Dance 50",
     
 ]
 
