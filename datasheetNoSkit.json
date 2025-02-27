@@ -413,7 +413,8 @@
 "Fear of Dark": {"title":"Fear of Dark","datepublished":2025,"track":408, "length":3024,"videotype":"Watch"},
 "Roblox Myths Deserved Better": {"title":"Roblox Myths Deserved Better","datepublished":2024,"track":409, "length":3656,"videotype":"Watch"},
 "Movies Based on Creepypasta": {"title":"Movies Based on Creepypasta","datepublished":2024,"track":410, "length":3083,"videotype":"Watch"},
-"Jonochrome Vs The World": {"title":"Jonochrome Vs The World","datepublished":2024,"track":411, "length":4307,"videotype":"Watch"}
+"Jonochrome Vs The World": {"title":"Jonochrome Vs The World","datepublished":2024,"track":411, "length":4307,"videotype":"Watch"},
+"The Crazy Dance 50": {"title":"The Crazy Dance 50","datepublished":2023,"track":412, "length":180000,"videotype":"Watch"}
 
 
       },
@@ -832,7 +833,8 @@
         "408":{"title":"Fear of Dark"},
         "409":{"title":"Roblox Myths Deserved Better"},
         "410":{"title":"Movies Based on Creepypasta"},
-        "411":{"title":"Jonochrome Vs The World"}
+        "411":{"title":"Jonochrome Vs The World"},
+        "412":{"title":"The Crazy Dance 50"}
         
         },
         
