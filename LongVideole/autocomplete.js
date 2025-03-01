@@ -412,6 +412,7 @@ const songTitles = [
     "Movies Based on Creepypasta",
     "Jonochrome Vs The World",
     "The Crazy Dance 50",
+    "Wii U: Birth of a Death (Part I) - Scott The Woz",
     
 ]
 
