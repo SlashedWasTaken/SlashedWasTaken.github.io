@@ -414,6 +414,7 @@ const songTitles = [
     "The Crazy Dance 50",
     "Wii U: Birth of a Death (Part I) - Scott The Woz",
     "Getting a 100 Winstreak in ONE DAY | Hypixel Bridge",
+    "You Are An Idiot 12 Hour Version",
     
 ]
 
