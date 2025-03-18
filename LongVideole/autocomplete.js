@@ -416,6 +416,7 @@ const songTitles = [
     "Getting a 100 Winstreak in ONE DAY | Hypixel Bridge",
     "You Are An Idiot 12 Hour Version",
     "Roblox - Rooms - Room 4022 (Former World Record) - Part 3/3",
+    "Fall of Resistance - 61 Minutes - Longest Custom Song - Chart Preview",
     
 ]
 
