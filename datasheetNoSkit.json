@@ -424,7 +424,8 @@
 "I See It Too. (100x slower)": {"title":"I See It Too. (100x slower)","datepublished":2025,"track":419, "length":58976,"videotype":"Listen"},
 "Oppenheimer": {"title":"Oppenheimer","datepublished":2023,"track":420, "length":10821,"videotype":"Watch"},
 "Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)": {"title":"Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)","datepublished":2021,"track":421, "length":3617,"videotype":"Watch"},
-"The Stanley Parable: Ultra Deluxe | FULL GAME": {"title":"The Stanley Parable: Ultra Deluxe | FULL GAME","datepublished":2022,"track":422, "length":13108,"videotype":"Watch"}
+"The Stanley Parable: Ultra Deluxe | FULL GAME": {"title":"The Stanley Parable: Ultra Deluxe | FULL GAME","datepublished":2022,"track":422, "length":13108,"videotype":"Watch"},
+"Aria Math (PAL Version) - Minecraft": {"title":"Aria Math (PAL Version) - Minecraft","datepublished":2025,"track":423, "length":13572,"videotype":"Watch"}
 
 
       },
@@ -854,7 +855,8 @@
         "419":{"title":"I See It Too. (100x slower)"},
         "420":{"title":"Oppenheimer"},
         "421":{"title":"Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)"},
-        "422":{"title":"The Stanley Parable: Ultra Deluxe | FULL GAME"}
+        "422":{"title":"The Stanley Parable: Ultra Deluxe | FULL GAME"},
+        "423":{"title":"Aria Math (PAL Version) - Minecraft"}
         
         },
         
