@@ -422,6 +422,7 @@ const songTitles = [
     "Oppenheimer",
     "Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)",
     "The Stanley Parable: Ultra Deluxe | FULL GAME",
+    "Aria Math (PAL Version) - Minecraft",
     
 ]
 
