@@ -425,7 +425,7 @@ const songTitles = [
     "Aria Math (PAL Version) - Minecraft",
     "sans. but it keeps getting faster",
     "Mario Kart Wii by Logan_US in 1:10:06 - Awesome Games Done Quick 2024",
-    "The 28 Hour Journey to Beat Paper Mario's Hardest Challenge",
+    "The 28 Hour Journey to Beat Paper Mario's Hardest Challenge (Pre-Hooktail Pit of 100 Trials)",
     
 ]
 
