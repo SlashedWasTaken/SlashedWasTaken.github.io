@@ -425,7 +425,10 @@
 "Oppenheimer": {"title":"Oppenheimer","datepublished":2023,"track":420, "length":10821,"videotype":"Watch"},
 "Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)": {"title":"Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)","datepublished":2021,"track":421, "length":3617,"videotype":"Watch"},
 "The Stanley Parable: Ultra Deluxe | FULL GAME": {"title":"The Stanley Parable: Ultra Deluxe | FULL GAME","datepublished":2022,"track":422, "length":13108,"videotype":"Watch"},
-"Aria Math (PAL Version) - Minecraft": {"title":"Aria Math (PAL Version) - Minecraft","datepublished":2025,"track":423, "length":13572,"videotype":"Watch"}
+"Aria Math (PAL Version) - Minecraft": {"title":"Aria Math (PAL Version) - Minecraft","datepublished":2025,"track":423, "length":13572,"videotype":"Watch"},
+"sans. but it keeps getting faster": {"title":"sans. but it keeps getting faster","datepublished":2019,"track":424, "length":3599,"videotype":"Watch"},
+"Mario Kart Wii by Logan_US in 1:10:06 - Awesome Games Done Quick 2024": {"title":"Mario Kart Wii by Logan_US in 1:10:06 - Awesome Games Done Quick 2024","datepublished":2024,"track":425, "length":4602,"videotype":"Watch"},
+"The 28 Hour Journey to Beat Paper Mario's Hardest Challenge": {"title":"The 28 Hour Journey to Beat Paper Mario's Hardest Challenge","datepublished":2024,"track":426, "length":3553,"videotype":"Watch"}
 
 
       },
@@ -856,7 +859,10 @@
         "420":{"title":"Oppenheimer"},
         "421":{"title":"Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)"},
         "422":{"title":"The Stanley Parable: Ultra Deluxe | FULL GAME"},
-        "423":{"title":"Aria Math (PAL Version) - Minecraft"}
+        "423":{"title":"Aria Math (PAL Version) - Minecraft"},
+        "424":{"title":"sans. but it keeps getting faster"},
+        "425":{"title":"Mario Kart Wii by Logan_US in 1:10:06 - Awesome Games Done Quick 2024"},
+        "426":{"title":"The 28 Hour Journey to Beat Paper Mario's Hardest Challenge"}
         
         },
         
