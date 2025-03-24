@@ -325,7 +325,7 @@ const songTitles = [
     "611",
     "1396",
     "10 hours with Roxbury Guys (Jim Carrey, new CD)",
-    "Minecraft All Advancements TAS World Record",
+    "Minecraft All Advancements TAS",
     "Tower of Cruel Punishment - Clear",
     "Roblox pain v3 completion | keen badge",
     "Bad Apple slowed down to 10 hours",
