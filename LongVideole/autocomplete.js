@@ -423,6 +423,9 @@ const songTitles = [
     "Stuck_in_my_bedroom (THIS IS NOT MINE) (this is fake)",
     "The Stanley Parable: Ultra Deluxe | FULL GAME",
     "Aria Math (PAL Version) - Minecraft",
+    "sans. but it keeps getting faster",
+    "Mario Kart Wii by Logan_US in 1:10:06 - Awesome Games Done Quick 2024",
+    "The 28 Hour Journey to Beat Paper Mario's Hardest Challenge",
     
 ]
 
