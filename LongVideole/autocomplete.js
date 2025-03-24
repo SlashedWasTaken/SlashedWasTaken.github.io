@@ -51,7 +51,7 @@ const songTitles = [
     "Lemon Demon - View-Monster (full album with bonus tracks from the Bandcamp release)",
     "Zone 5 Tower Rush Completion but CoCE is bugged | Roblox JToH",
     "Trapped In The Drive-Thru",
-    "Hong Kong 97 Music (10 hours loop)",
+    "Hong Kong 97 Main Theme (10 hours loop)",
     "∞²",
     "The History Of The Longest Discord Call But It's In Morse Code",
     "tunes from jvne (sewerslvt playlist)",
