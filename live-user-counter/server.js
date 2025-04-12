@@ -1,31 +1,23 @@
 const WebSocket = require('ws');
-const express = require('express');
-const http = require('http');
+const wss = new WebSocket.Server({ port: process.env.PORT || 3000 });
 
-const app = express();
-const server = http.createServer(app);
-const wss = new WebSocket.Server({ server });
+let clients = new Set();
 
-let count = 0;
-
-wss.on('connection', (ws) => {
-  count++;
-  broadcast();
+wss.on('connection', function connection(ws) {
+  clients.add(ws);
+  broadcastUserCount();
 
   ws.on('close', () => {
-    count--;
-    broadcast();
+    clients.delete(ws);
+    broadcastUserCount();
   });
 });
 
-function broadcast() {
-  for (const client of wss.clients) {
+function broadcastUserCount() {
+  const count = clients.size;
+  for (const client of clients) {
     if (client.readyState === WebSocket.OPEN) {
       client.send(count.toString());
     }
   }
 }
-
-server.listen(process.env.PORT || 10000, () => {
-  console.log('Server running...');
-});
