@@ -97,7 +97,7 @@ function hor(x, y, d, u, v, du, dv) {
 		dv /= 20;
 
 		for (let i = 0; i < 20; ++i) {
-			if (flip((u + i*du) * (v + i*dv))) {
+			if (flip(u*v + (u + du))) {
 				this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
 				this.ver(x, y, d, u, v, du, dv);
 			}
@@ -116,7 +116,7 @@ function ver(x, y, d, u, v, du, dv) {
 		dv /= 20;
 
 		for (let i = 0; i < 20; ++i) {
-			if (flip((u + i*du) * (v + i*dv))) {
+			if (flip(u*v + (v + dv))) {
 				this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
 				this.hor(x, y, d, u, v, du, dv);
 			}
