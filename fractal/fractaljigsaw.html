@@ -118,7 +118,7 @@ var initialPaths = [
 
 var initialPath = initialPaths[Math.floor(Math.random() * initialPaths.length)];	// [blah(), blah(), blah(), blah()];
 
-var maxPathLength = 5;
+var maxPathLength = 19;
 var topLevelData;
 var messagesDisplayed;
 var soundEnabled;
@@ -132,7 +132,7 @@ if (storedData && confirm('Continue from last time?')) {
 	messagesDisplayed = storedData.messagesDisplayed;
 	soundEnabled = storedData.soundEnabled;
 } else {
-	topLevelData = createTopLevelData(-0.7436424892193446, 0.1318316205585883, 5000000);
+	topLevelData = createTopLevelData(-0.7436424892193446, 0.1318316205585883, 5);
 }
 
 window.addEventListener("unload", function (e) {
