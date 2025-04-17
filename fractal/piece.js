@@ -92,39 +92,102 @@ function makeTopPiece(u, v, du5, dv5) {
 
 function hor(x, y, d, u, v, du, dv) {
 	if (d > 1) {
-		d /= 20;
-		du /= 20;
-		dv /= 20;
+		d /= 5;
+		du /= 5;
+		dv /= 5;
 
-		for (let i = 0; i < 20; ++i) {
-			if (flip(u*v + (u + du))) {
-				this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
-				this.ver(x, y, d, u, v, du, dv);
-			}
+		this.hor(x, y, d, u, v, du, dv);
+		x += d;
+		u += du;
+
+		this.hor(x, y, d, u, v, du, dv);
+		x += d;
+		u += du;
+
+		if (flip(u*v+(u+du))) {
+			this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
+			this.ver(x, y, d, u, v, du, dv);
+			y += d;
+			v += dv;
+
 			this.hor(x, y, d, u, v, du, dv);
 			x += d;
 			u += du;
+
+			y -= d;
+			v -= dv;
+			this.ver(x, y, d, u, v, du, dv);
+		} else {
+			y -= d;
+			this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
+			v -= dv;
+			this.ver(x, y, d, u, v, du, dv);
+
+			this.hor(x, y, d, u, v, du, dv);
+			x += d;
+			u += du;
+
+			this.ver(x, y, d, u, v, du, dv);
+			y += d;
 			v += dv;
+		
 		}
+		
+		this.hor(x, y, d, u, v, du, dv);
+		x += d;
+		u += du;
+
+		this.hor(x, y, d, u, v, du, dv);
 	}
 }
 
 function ver(x, y, d, u, v, du, dv) {
 	if (d > 1) {
-		d /= 20;
-		du /= 20;
-		dv /= 20;
+		d /= 5;
+		du /= 5;
+		dv /= 5;
 
-		for (let i = 0; i < 20; ++i) {
-			if (flip(u*v + (v + dv))) {
-				this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
-				this.hor(x, y, d, u, v, du, dv);
-			}
+		this.ver(x, y, d, u, v, du, dv);
+		y += d;
+		v += dv;
+
+		this.ver(x, y, d, u, v, du, dv);
+		y += d;
+		v += dv;
+
+		if (flip(u*v+(v+dv))) {
+			this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
+			this.hor(x, y, d, u, v, du, dv);
+			x += d;
+			u += du;
+
 			this.ver(x, y, d, u, v, du, dv);
 			y += d;
-			u += du;
 			v += dv;
+
+			x -= d;
+			u -= du;
+			this.hor(x, y, d, u, v, du, dv);
+		} else {
+			x -= d;
+			this.xorRect(x, y, d, d, 0, 0, 0, this.alpha);
+			u -= du;
+			this.hor(x, y, d, u, v, du, dv);
+
+			this.ver(x, y, d, u, v, du, dv);
+			y += d;
+			v += dv;
+
+			this.hor(x, y, d, u, v, du, dv);
+			x += d;
+			u += du;
 		}
+		
+		this.ver(x, y, d, u, v, du, dv);
+		y += d;
+		v += dv;
+
+		this.ver(x, y, d, u, v, du, dv);
 	}
 }
 
