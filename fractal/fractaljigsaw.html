@@ -118,7 +118,7 @@ var initialPaths = [
 
 var initialPath = initialPaths[Math.floor(Math.random() * initialPaths.length)];	// [blah(), blah(), blah(), blah()];
 
-var maxPathLength = 19;
+var maxPathLength = 20;
 var topLevelData;
 var messagesDisplayed;
 var soundEnabled;
@@ -175,9 +175,9 @@ function displayMessage(m) {
 	}
 }
 
-var clickSound = new Audio('sounds/178186__snapper4298__camera-click-nikon.wav');
-var zoomOutSound = new Audio('sounds/333078__michael-kur95__time-s-up.wav');
-var zoomInSound = new Audio('sounds/333078__michael-kur95__time-s-up_reversed.wav');
+var clickSound = new Audio('https://thatmichaelpark.github.io/fractal-jigsaw-puzzle/sounds/178186__snapper4298__camera-click-nikon.wav');
+var zoomOutSound = new Audio('https://thatmichaelpark.github.io/fractal-jigsaw-puzzle/sounds/333078__michael-kur95__time-s-up.wav');
+var zoomInSound = new Audio('https://thatmichaelpark.github.io/fractal-jigsaw-puzzle/sounds/333078__michael-kur95__time-s-up_reversed.wav');
 
 if (soundEnabled == undefined) {
 	soundEnabled = true;
@@ -473,7 +473,7 @@ function initLevel(priorityLevel) {
 		if (c == null) {
 			continue;
 		}
-		var piece = new Piece(4);
+		var piece = new Piece(3);
 		piece.levelData = c;
 		var color = c.isComplete ? 100 : 210;
 		piece.xorRect(0, 0, piece.wholeSide, piece.wholeSide, 255, color, color, 0);
