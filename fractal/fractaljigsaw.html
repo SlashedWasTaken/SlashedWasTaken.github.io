@@ -835,7 +835,6 @@ function zoomInRedrawComplete(ms) {
 }
 
 function zoomOut() {
-	if (currentLevel.path.length > 0) {	// can't zoom out of top level
 		if (currentLevel.isComplete = checkLevelDone()) {
 			currentLevel.children = [];
 			redrawFunction = zoomOutRedrawComplete;
@@ -843,7 +842,6 @@ function zoomOut() {
 			redrawFunction = zoomOutRedrawBlank;
 		}
 		playSound(zoomOutSound);
-	}
 }
 
 function zoomOutRedrawBlank(ms) {
