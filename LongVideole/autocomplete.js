@@ -429,6 +429,8 @@ const songTitles = [
     "crystal edge but the wave is moderately longer",
     "stal but its 100x slower",
     "LDC (Full Discography)",
+    "Tutorial (Part 1) - π Music Extended",
+    "Space Jam",
     
 ]
 
