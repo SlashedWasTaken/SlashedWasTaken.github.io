@@ -432,6 +432,7 @@ const songTitles = [
     "Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60",
     "Tutorial (Part 1) - π Music Extended",
     "Space Jam",
+    "Every Kanye album but if the title of the song is said it skips to the next song. (CHECK DESCRIP)",
     
 ]
 
