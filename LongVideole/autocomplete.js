@@ -429,6 +429,7 @@ const songTitles = [
     "crystal edge but the wave is moderately longer",
     "stal but its 100x slower",
     "LDC (Full Discography)",
+    "Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60",
     "Tutorial (Part 1) - π Music Extended",
     "Space Jam",
     
