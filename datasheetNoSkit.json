@@ -432,7 +432,9 @@
 "crystal edge but the wave is moderately longer": {"title":"crystal edge but the wave is moderately longer","datepublished":2025,"track":427, "length":14414,"videotype":"Listen"},
 "stal but its 100x slower": {"title":"stal but its 100x slower","datepublished":2024,"track":428, "length":15163,"videotype":"Listen"},
 "LDC (Full Discography)": {"title":"LDC (Full Discography)","datepublished":2023,"track":429, "length":3978,"videotype":"Listen"},
-"Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60)": {"title":"Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60","datepublished":2023,"track":430, "length":8712,"videotype":"Watch"}
+"Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60)": {"title":"Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60","datepublished":2023,"track":430, "length":8712,"videotype":"Watch"},
+"Tutorial (Part 1) - π Music Extended": {"title":"Tutorial (Part 1) - π Music Extended","datepublished":2019,"track":431, "length":3978,"videotype":"Listen"},
+"Space Jam": {"title":"Space Jam","datepublished":2023,"track":432, "length":5236,"videotype":"Watch"}
 
 
       },
@@ -870,7 +872,9 @@
         "427":{"title":"crystal edge but the wave is moderately longer"},
         "428":{"title":"stal but its 100x slower"},
         "429":{"title":"LDC (Full Discography)"},
-        "430":{"title":"Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60"}
+        "430":{"title":"Permadeath The Animation #7 El Final de PERMADEATH |(Opening + Ending + Resumen) Días 50 - 60"},
+        "431":{"title":"Tutorial (Part 1) - π Music Extended"},
+        "432":{"title":"Space Jam"}
         
         },
         
