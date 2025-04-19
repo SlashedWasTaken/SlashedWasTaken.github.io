@@ -75,7 +75,7 @@ body {
   color: var(--text-color);
   /* background-image: url(res/court-floor.png);
     background-color: #2E1C0D;*/
-    background-image: radial-gradient(circle, #2a2a2a, #2a292a, #2a292a, #2b2829, #2c2727, #302a2a, #342e2c, #38312f, #423a37, #4c433f, #564c48, #605650);  background-size: cover;
+    background-image: radial-gradient(circle, #0a0a0f, #12121a, #1a1a25, #222230, #2a2a3c, #323247, #3a3a53, #434360, #4b4b6d, #54547b, #5d5d89, #676697, #7171a6);  background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
   
