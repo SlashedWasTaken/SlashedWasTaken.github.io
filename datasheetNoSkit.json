@@ -437,7 +437,8 @@
 "Space Jam": {"title":"Space Jam","datepublished":2023,"track":432, "length":5236,"videotype":"Watch"},
 "Every Kanye album but if the title of the song is said it skips to the next song. (CHECK DESCRIP)": {"title":"Every Kanye album but if the title of the song is said it skips to the next song. (CHECK DESCRIP)","datepublished":2024,"track":433, "length":11543,"videotype":"Listen"},
 "Left 4 Dead 2 - No Mercy (Pandemonium Difficulty)": {"title":"Left 4 Dead 2 - No Mercy (Pandemonium Difficulty)","datepublished":2024,"track":434, "length":4327,"videotype":"Watch"},
-"The Dread | 10 hours | Light Containment Zone Ambient Music": {"title":"The Dread | 10 hours | Light Containment Zone Ambient Music","datepublished":2021,"track":435, "length":36000,"videotype":"Listen"}
+"The Dread | 10 hours | Light Containment Zone Ambient Music": {"title":"The Dread | 10 hours | Light Containment Zone Ambient Music","datepublished":2021,"track":435, "length":36000,"videotype":"Listen"},
+"Top 10 Worst Games Nobody Played - Just Bad Games": {"title":"Top 10 Worst Games Nobody Played - Just Bad Games","datepublished":2022,"track":436, "length":17279,"videotype":"Watch"}
 
 
       },
@@ -880,7 +881,8 @@
         "432":{"title":"Space Jam"},
         "433":{"title":"Every Kanye album but if the title of the song is said it skips to the next song. (CHECK DESCRIP)"},
         "434":{"title":"Left 4 Dead 2 - No Mercy (Pandemonium Difficulty)"},
-        "435":{"title":"The Dread | 10 hours | Light Containment Zone Ambient Music"}
+        "435":{"title":"The Dread | 10 hours | Light Containment Zone Ambient Music"},
+        "436":{"title":"Top 10 Worst Games Nobody Played - Just Bad Games"}
         
         },
         
