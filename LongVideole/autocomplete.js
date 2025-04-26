@@ -436,6 +436,8 @@ const songTitles = [
     "Left 4 Dead 2 - No Mercy (Pandemonium Difficulty)",
     "The Dread | 10 hours | Light Containment Zone Ambient Music",
     "Top 10 Worst Games Nobody Played - Just Bad Games",
+    "Aqualounge 2",
+    "complete album",
     
 ]
 
