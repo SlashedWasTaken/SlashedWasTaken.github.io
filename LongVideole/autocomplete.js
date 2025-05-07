@@ -443,6 +443,7 @@ const songTitles = [
     "EVERYBODY DO THE FLOP (asdfmovie song) 10 HOURS",
     "BEEP BEEP I'M A SHEEP 10 HOUR TORTURE TEST",
     "Cows & Cows & Cows 10 hours",
+    "Stage Select (Full Version) - Mega Man 3",
     
 ]
 
