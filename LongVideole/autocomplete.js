@@ -445,6 +445,7 @@ const songTitles = [
     "Cows & Cows & Cows 10 hours",
     "Stage Select (Full Version) - Mega Man 3",
     "1",
+    "1 2",
     
 ]
 
