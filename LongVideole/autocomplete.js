@@ -383,7 +383,7 @@ const songTitles = [
     "FE!N but every time he says fein the song restarts",
     "The Polar Express",
     "EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use",
-    "​",
+    "𝐂𝐀𝐋𝐌 𝐘𝐎𝐔𝐑 𝐌𝐈𝐍𝐃.",
     "HGSS Ho-Oh 1 hour loop",
     "pendulum-hold your colour-full album",
     "Rohan's Ask A Stupid Question - Full Album Streaming!",
