@@ -449,6 +449,7 @@ const songTitles = [
     "Milwaukee Protocol - Days 1-4 (COMPLETE)",
     "Sleep Well",
     "Roblox XBOX/PS4/VR Theme but it progressively gets louder",
+    "Foo Fighters - Everlong (Extended Music Video) [1 Hour Remix]",
     
 ]
 
