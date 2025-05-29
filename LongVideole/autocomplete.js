@@ -451,6 +451,7 @@ const songTitles = [
     "Roblox XBOX/PS4/VR Theme but it progressively gets louder",
     "Foo Fighters - Everlong (Extended Music Video) [1 Hour Remix]",
     "Silent Hill 2 - Alone in the Town (Extended 1 Hour Loop)",
+    "Pinegrove - Everything So Far (FULL ALBUM STREAM)",
     
 ]
 
