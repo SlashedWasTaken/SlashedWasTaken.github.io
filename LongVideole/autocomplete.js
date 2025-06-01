@@ -454,6 +454,7 @@ const songTitles = [
     "Pinegrove - Everything So Far (FULL ALBUM STREAM)",
     "The Brave Little Abacus - Last Show @ The Vic Geary Center",
     "Plagiarism and You(Tube)",
+    "The Ultimate Fangame Quest",
     
 ]
 
