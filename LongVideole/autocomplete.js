@@ -455,6 +455,7 @@ const songTitles = [
     "The Brave Little Abacus - Last Show @ The Vic Geary Center",
     "Plagiarism and You(Tube)",
     "The Ultimate Fangame Quest",
+    "[Vinesauce] Joel - Hardcore Friday: Where's Waldo?",
     
 ]
 
