@@ -456,6 +456,7 @@ const songTitles = [
     "Plagiarism and You(Tube)",
     "The Ultimate Fangame Quest",
     "[Vinesauce] Joel - Hardcore Friday: Where's Waldo?",
+    "I forced an Ai to play a kids adventure game",
     
 ]
 
