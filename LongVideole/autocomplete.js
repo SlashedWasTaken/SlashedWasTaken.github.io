@@ -458,6 +458,7 @@ const songTitles = [
     "[Vinesauce] Joel - Hardcore Friday: Where's Waldo?",
     "I forced an Ai to play a kids adventure game",
     "Long Video Roulette",
+    "The End (again)",
     
 ]
 
