@@ -461,7 +461,8 @@
 "[Vinesauce] Joel - Hardcore Friday: Where's Waldo?": {"title":"[Vinesauce] Joel - Hardcore Friday: Where's Waldo?","datepublished":2019,"track":456, "length":15102,"videotype":"Watch"},
 "I forced an Ai to play a kids adventure game": {"title":"I forced an Ai to play a kids adventure game","datepublished":2023,"track":457, "length":8450,"videotype":"Watch"},
 "Long Video Roulette": {"title":"Long Video Roulette","datepublished":2024,"track":458, "length":3000,"videotype":"Watch"},
-"The End (again)": {"title":"The End (again)","datepublished":2025,"track":459, "length":25601,"videotype":"Watch"}
+"The End (again)": {"title":"The End (again)","datepublished":2025,"track":459, "length":25601,"videotype":"Watch"},
+"The Second 1000 Hour Long Video": {"title":"The Second 1000 Hour Long Video","datepublished":2025,"track":460, "length":36000,"videotype":"Watch"}
 
 
       },
@@ -928,7 +929,8 @@
         "456":{"title":"[Vinesauce] Joel - Hardcore Friday: Where's Waldo?"},
         "457":{"title":"I forced an Ai to play a kids adventure game"},
         "458":{"title":"Long Video Roulette"},
-        "459":{"title":"The End (again)"}
+        "459":{"title":"The End (again)"},
+        "460":{"title":"The Second 1000 Hour Long Video"}
         
         
         },
