@@ -459,6 +459,7 @@ const songTitles = [
     "I forced an Ai to play a kids adventure game",
     "Long Video Roulette",
     "The End (again)",
+    "The Second 1000 Hour Long Video",
     
 ]
 
