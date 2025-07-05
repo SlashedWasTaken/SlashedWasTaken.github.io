@@ -462,6 +462,9 @@ const songTitles = [
     "The Second 1000 Hour Long Video",
     "final; destination but the cube is noticably longer",
     "pain v4 completion | acme badge",
+    "Milwaukee Protocol - Day 2: Reimagined (FAN ALBUM)",
+    "Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)",
+    "Last to Leave VC wins $100,000",
     
 ]
 
