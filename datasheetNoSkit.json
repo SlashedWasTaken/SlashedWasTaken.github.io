@@ -464,7 +464,10 @@
 "The End (again)": {"title":"The End (again)","datepublished":2025,"track":459, "length":25601,"videotype":"Watch"},
 "The Second 1000 Hour Long Video": {"title":"The Second 1000 Hour Long Video","datepublished":2025,"track":460, "length":36000,"videotype":"Watch"},
 "final; destination but the cube is noticably longer": {"title":"final; destination but the cube is noticably longer","datepublished":2025,"track":461, "length":32419,"videotype":"Listen"},
-"pain v4 completion | acme badge": {"title":"pain v4 completion | acme badge","datepublished":2025,"track":462, "length":11365,"videotype":"Watch"}
+"pain v4 completion | acme badge": {"title":"pain v4 completion | acme badge","datepublished":2025,"track":462, "length":11365,"videotype":"Watch"},
+"Milwaukee Protocol - Day 2: Reimagined (FAN ALBUM)": {"title":"Milwaukee Protocol - Day 2: Reimagined (FAN ALBUM)","datepublished":2024,"track":463, "length":3640,"videotype":"Listen"},
+"Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)": {"title":"Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)","datepublished":2024,"track":464, "length":3254,"videotype":"Listen"},
+"Last to Leave VC wins $100,000": {"title":"Last to Leave VC wins $100,000","datepublished":2025,"track":465, "length":9471,"videotype":"Watch"}
 
 
       },
@@ -934,7 +937,10 @@
         "459":{"title":"The End (again)"},
         "460":{"title":"The Second 1000 Hour Long Video"},
         "461":{"title":"final; destination but the cube is noticably longer"},
-        "462":{"title":"pain v4 completion | acme badge"}
+        "462":{"title":"pain v4 completion | acme badge"},
+        "463":{"title":"Milwaukee Protocol - Day 2: Reimagined (FAN ALBUM)"},
+        "464":{"title":"Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)"},
+        "465":{"title":"Last to Leave VC wins $100,000"}
         
         
         },
