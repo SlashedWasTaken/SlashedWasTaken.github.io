@@ -465,6 +465,7 @@ const songTitles = [
     "Milwaukee Protocol - Day 2: Reimagined (FAN ALBUM)",
     "Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)",
     "Last to Leave VC wins $100,000",
+    "THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS",
     
 ]
 
