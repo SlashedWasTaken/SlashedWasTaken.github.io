@@ -469,7 +469,8 @@
 "Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)": {"title":"Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)","datepublished":2024,"track":464, "length":3254,"videotype":"Listen"},
 "Last to Leave VC wins $100,000 [Part 1]": {"title":"Last to Leave VC wins $100,000 [Part 1]","datepublished":2025,"track":465, "length":9471,"videotype":"Watch"},
 "THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS": {"title":"THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS","datepublished":2019,"track":466, "length":36000,"videotype":"Listen"},
-"Last to Leave VC wins $100,000 [Part 2]": {"title":"Last to Leave VC wins $100,000 [Part 2]","datepublished":2025,"track":467, "length":12414,"videotype":"Watch"}
+"Last to Leave VC wins $100,000 [Part 2]": {"title":"Last to Leave VC wins $100,000 [Part 2]","datepublished":2025,"track":467, "length":12414,"videotype":"Watch"},
+"LTLVC5_behind_the_scenes.mov": {"title":"LTLVC5_behind_the_scenes.mov","datepublished":2025,"track":468, "length":3346,"videotype":"Watch"}
 
 
       },
@@ -944,7 +945,8 @@
         "464":{"title":"Milwaukee Protocol - Day 3: Reimagined (FAN ALBUM)"},
         "465":{"title":"Last to Leave VC wins $100,000 [Part 1]"},
         "466":{"title":"THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS"},
-        "467":{"title":"Last to Leave VC wins $100,000 [Part 2]"}
+        "467":{"title":"Last to Leave VC wins $100,000 [Part 2]"},
+        "468":{"title":"LTLVC5_behind_the_scenes.mov"}
         
         
         },
