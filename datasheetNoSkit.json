@@ -386,7 +386,7 @@
 "FE!N but every time he says fein the song restarts": {"title":"FE!N but every time he says fein the song restarts","datepublished":2024,"track":381,"length":6809,"videotype":"Listen"},
 "The Polar Express": {"title":"The Polar Express","datepublished":2022,"track":382,"length":5992,"videotype":"Watch"},
 "EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use": {"title":"EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use","datepublished":2024,"track":383,"length":4868,"videotype":"Listen"},
-"𝐂𝐀𝐋𝐌 𝐘𝐎𝐔𝐑 𝐌𝐈𝐍𝐃.": {"title":"𝐂𝐀𝐋𝐌 𝐘𝐎𝐔𝐑 𝐌𝐈𝐍𝐃.","datepublished":2024,"track":384,"length":79200,"videotype":"Listen"},
+"​": {"title":"​","datepublished":2024,"track":384,"length":79200,"videotype":"Listen"},
 "HGSS Ho-Oh 1 hour loop": {"title":"HGSS Ho-Oh 1 hour loop","datepublished":2010,"track":385,"length":3600,"videotype":"Listen"},
 "pendulum-hold your colour-full album": {"title":"pendulum-hold your colour-full album","datepublished":2009,"track":386,"length":4790,"videotype":"Listen"},
 "Rohan's Ask A Stupid Question - Full Album Streaming!": {"title":"Rohan's Ask A Stupid Question - Full Album Streaming!","datepublished":2008,"track":387,"length":3243,"videotype":"Listen"},
@@ -471,7 +471,8 @@
 "THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS": {"title":"THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS","datepublished":2019,"track":466, "length":36000,"videotype":"Listen"},
 "Last to Leave VC wins $100,000 [Part 2]": {"title":"Last to Leave VC wins $100,000 [Part 2]","datepublished":2025,"track":467, "length":12414,"videotype":"Watch"},
 "LTLVC5_behind_the_scenes.mov": {"title":"LTLVC5_behind_the_scenes.mov","datepublished":2025,"track":468, "length":3346,"videotype":"Watch"},
-"february": {"title":"february","datepublished":2025,"track":469, "length":8184,"videotype":"Listen"}
+"february": {"title":"february","datepublished":2025,"track":469, "length":8184,"videotype":"Listen"},
+"The Things They Did for Me Out of Love": {"title":"The Things They Did for Me Out of Love","datepublished":2021,"track":470, "length":17040,"videotype":"Listen"}
 
 
       },
@@ -863,7 +864,7 @@
         "381":{"title":"FE!N but every time he says fein the song restarts"},
         "382":{"title":"The Polar Express"},
         "383":{"title":"EVIL SCARY DISS TRACK (ft. Benson44) but every repeated word loops back to its last use"},
-        "384":{"title":"𝐂𝐀𝐋𝐌 𝐘𝐎𝐔𝐑 𝐌𝐈𝐍𝐃."},
+        "384":{"title":"​"},
         "385":{"title":"HGSS Ho-Oh 1 hour loop"},
         "386":{"title":"pendulum-hold your colour-full album"},
         "387":{"title":"Rohan's Ask A Stupid Question - Full Album Streaming!"},
@@ -948,7 +949,8 @@
         "466":{"title":"THE MUFFIN SONG (asdfmovie feat. Schmoyoho) 10 HOURS"},
         "467":{"title":"Last to Leave VC wins $100,000 [Part 2]"},
         "468":{"title":"LTLVC5_behind_the_scenes.mov"},
-        "469":{"title":"february"}
+        "469":{"title":"february"},
+        "470":{"title":"The Things They Did for Me Out of Love"}
         
         
         },
