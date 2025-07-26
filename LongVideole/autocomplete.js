@@ -471,6 +471,8 @@ const songTitles = [
     "february",
     "The Things They Did for Me Out of Love",
     "There Will Never Be Another Roblox Egg Hunt 2018",
+    "Everything Wrong With Sonic X Shadow Generations",
+    "Deadpool vs Peter Griffin but every title card you go and watch one of their battles",
     
 ]
 
