@@ -475,6 +475,8 @@ const songTitles = [
     "Deadpool vs Peter Griffin but every title card you go and watch one of their battles",
     "Where Does This Image Come From?",
     "The Wifies Debunk",
+    "Furret Walk in Relaxing Rain (10 Hours)",
+    "Disappear_ - anomaly in nature [Full Album]",
     
 ]
 
