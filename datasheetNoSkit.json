@@ -479,7 +479,9 @@
 "Where Does This Image Come From?": {"title":"Where Does This Image Come From?","datepublished":2024,"track":474, "length":3009,"videotype":"Watch"},
 "The Wifies Debunk": {"title":"The Wifies Debunk","datepublished":2024,"track":475, "length":3411,"videotype":"Watch"},
 "Furret Walk in Relaxing Rain (10 Hours)": {"title":"Furret Walk in Relaxing Rain (10 Hours)","datepublished":2019,"track":476, "length":36023,"videotype":"Listen"},
-"Disappear_ - anomaly in nature [Full Album]": {"title":"Disappear_ - anomaly in nature [Full Album]","datepublished":2024,"track":477, "length":4800,"videotype":"Listen"}
+"Disappear_ - anomaly in nature [Full Album]": {"title":"Disappear_ - anomaly in nature [Full Album]","datepublished":2024,"track":477, "length":4800,"videotype":"Listen"},
+"The Patients - vCJD - Parts 1-4 (COMPLETE)": {"title":"The Patients - vCJD - Parts 1-4 (COMPLETE)","datepublished":2022,"track":478, "length":9748,"videotype":"Listen"},
+"Scott Pilgrim vs. The World": {"title":"Scott Pilgrim vs. The World","datepublished":2021,"track":479, "length":6727,"videotype":"Watch"}
 
 
       },
@@ -964,7 +966,9 @@
         "474":{"title":"Where Does This Image Come From?"},
         "475":{"title":"The Wifies Debunk"},
         "476":{"title":"Furret Walk in Relaxing Rain (10 Hours)"},
-        "477":{"title":"Disappear_ - anomaly in nature [Full Album]"}
+        "477":{"title":"Disappear_ - anomaly in nature [Full Album]"},
+        "478":{"title":"The Patients - vCJD - Parts 1-4 (COMPLETE)"},
+        "479":{"title":"Scott Pilgrim vs. The World"}
         
         
         },
