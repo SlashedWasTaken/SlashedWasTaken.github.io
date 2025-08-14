@@ -477,6 +477,8 @@ const songTitles = [
     "The Wifies Debunk",
     "Furret Walk in Relaxing Rain (10 Hours)",
     "Disappear_ - anomaly in nature [Full Album]",
+    "The Patients - vCJD - Parts 1-4 (COMPLETE)",
+    "Scott Pilgrim vs. The World",
     
 ]
 
