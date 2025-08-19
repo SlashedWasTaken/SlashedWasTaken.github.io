@@ -481,7 +481,8 @@
 "Furret Walk in Relaxing Rain (10 Hours)": {"title":"Furret Walk in Relaxing Rain (10 Hours)","datepublished":2019,"track":476, "length":36023,"videotype":"Listen"},
 "Disappear_ - anomaly in nature [Full Album]": {"title":"Disappear_ - anomaly in nature [Full Album]","datepublished":2024,"track":477, "length":4800,"videotype":"Listen"},
 "The Patients - vCJD - Parts 1-4 (COMPLETE)": {"title":"The Patients - vCJD - Parts 1-4 (COMPLETE)","datepublished":2022,"track":478, "length":9748,"videotype":"Listen"},
-"Scott Pilgrim vs. The World": {"title":"Scott Pilgrim vs. The World","datepublished":2021,"track":479, "length":6727,"videotype":"Watch"}
+"Scott Pilgrim vs. The World": {"title":"Scott Pilgrim vs. The World","datepublished":2021,"track":479, "length":6727,"videotype":"Watch"},
+"Rot of the Let's Play": {"title":"Rot of the Let's Play","datepublished":2025,"track":480, "length":4144,"videotype":"Watch"}
 
 
       },
@@ -968,7 +969,8 @@
         "476":{"title":"Furret Walk in Relaxing Rain (10 Hours)"},
         "477":{"title":"Disappear_ - anomaly in nature [Full Album]"},
         "478":{"title":"The Patients - vCJD - Parts 1-4 (COMPLETE)"},
-        "479":{"title":"Scott Pilgrim vs. The World"}
+        "479":{"title":"Scott Pilgrim vs. The World"},
+        "480":{"title":"Rot of the Let's Play"}
         
         
         },
