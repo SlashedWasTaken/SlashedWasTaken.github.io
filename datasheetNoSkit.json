@@ -482,7 +482,8 @@
 "Disappear_ - anomaly in nature [Full Album]": {"title":"Disappear_ - anomaly in nature [Full Album]","datepublished":2024,"track":477, "length":4800,"videotype":"Listen"},
 "The Patients - vCJD - Parts 1-4 (COMPLETE)": {"title":"The Patients - vCJD - Parts 1-4 (COMPLETE)","datepublished":2022,"track":478, "length":9748,"videotype":"Listen"},
 "Scott Pilgrim vs. The World": {"title":"Scott Pilgrim vs. The World","datepublished":2021,"track":479, "length":6727,"videotype":"Watch"},
-"Rot of the Let's Play": {"title":"Rot of the Let's Play","datepublished":2025,"track":480, "length":4144,"videotype":"Watch"}
+"Rot of the Let's Play": {"title":"Rot of the Let's Play","datepublished":2025,"track":480, "length":4144,"videotype":"Watch"},
+"The Citadel That Mentally Ruined Me | Eternal Towers of Hell": {"title":"The Citadel That Mentally Ruined Me | Eternal Towers of Hell","datepublished":2025,"track":481, "length":3550,"videotype":"Watch"}
 
 
       },
@@ -970,7 +971,8 @@
         "477":{"title":"Disappear_ - anomaly in nature [Full Album]"},
         "478":{"title":"The Patients - vCJD - Parts 1-4 (COMPLETE)"},
         "479":{"title":"Scott Pilgrim vs. The World"},
-        "480":{"title":"Rot of the Let's Play"}
+        "480":{"title":"Rot of the Let's Play"},
+        "481":{"title":"The Citadel That Mentally Ruined Me | Eternal Towers of Hell"}
         
         
         },
