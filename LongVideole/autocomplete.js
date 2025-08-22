@@ -480,6 +480,7 @@ const songTitles = [
     "The Patients - vCJD - Parts 1-4 (COMPLETE)",
     "Scott Pilgrim vs. The World",
     "Rot of the Let's Play",
+    "The Citadel That Mentally Ruined Me | Eternal Towers of Hell",
     
 ]
 
