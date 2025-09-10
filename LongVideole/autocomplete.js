@@ -481,6 +481,8 @@ const songTitles = [
     "Scott Pilgrim vs. The World",
     "Rot of the Let's Play",
     "The Citadel That Mentally Ruined Me | Eternal Towers of Hell",
+    "Club Penguin Shutdown - The Movie",
+    "9",
     
 ]
 
