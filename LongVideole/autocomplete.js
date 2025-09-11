@@ -479,7 +479,7 @@ const songTitles = [
     "Disappear_ - anomaly in nature [Full Album]",
     "The Patients - vCJD - Parts 1-4 (COMPLETE)",
     "Scott Pilgrim vs. The World",
-    "Rot of the Let's Play",
+    "Rot of the Let’s Play",
     "The Citadel That Mentally Ruined Me | Eternal Towers of Hell",
     "Club Penguin Shutdown - The Movie",
     "9",
