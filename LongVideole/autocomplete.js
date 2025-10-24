@@ -483,6 +483,7 @@ const songTitles = [
     "The Citadel That Mentally Ruined Me | Eternal Towers of Hell",
     "Club Penguin Shutdown - The Movie",
     "9",
+    "Long Video Roulette II",
     
 ]
 
