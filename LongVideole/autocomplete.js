@@ -484,6 +484,7 @@ const songTitles = [
     "Club Penguin Shutdown - The Movie",
     "9",
     "Long Video Roulette II",
+    "How Speedrunners Aced The Impossible Quiz",
     
 ]
 
