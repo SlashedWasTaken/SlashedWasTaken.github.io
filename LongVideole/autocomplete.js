@@ -485,6 +485,7 @@ const songTitles = [
     "9",
     "Long Video Roulette II",
     "How Speedrunners Aced The Impossible Quiz",
+    "[Legit WR] Wii Sports Resort All Achievements in 46:45",
     
 ]
 
