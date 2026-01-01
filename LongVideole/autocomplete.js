@@ -486,6 +486,7 @@ const songTitles = [
     "Long Video Roulette II",
     "How Speedrunners Aced The Impossible Quiz",
     "[Legit WR] Wii Sports Resort All Achievements in 46:45",
+    "Lift Your Skinny Fists Like Antennas to Heaven (full album) HQ",
     
 ]
 
