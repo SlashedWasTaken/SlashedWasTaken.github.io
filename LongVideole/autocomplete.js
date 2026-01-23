@@ -102,7 +102,7 @@ const songTitles = [
     "LDC - 10000 (100x slower)",
     "Ring 3 Tower Rush (with TAT + CoHaD) | Roblox JToH",
     "(New Hardest) Zone 1 Tower Rush [JToH]",
-    "The End of The World",
+    "5 Ways the World Could End",
     "Last to leave VC wins $25,000",
     "0 IQ Detective",
     "How's it going bros, my name is PewDiePie slowed down to 1 hour",
