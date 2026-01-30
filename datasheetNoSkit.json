@@ -492,7 +492,8 @@
 "Lift Your Skinny Fists Like Antennas to Heaven (full album) HQ": {"title":"Lift Your Skinny Fists Like Antennas to Heaven (full album) HQ","datepublished":2022,"track":487, "length":5250,"videotype":"Listen"},
 "Bull of Heaven - Like a Wall in Which an Insect Lives and Gnaws": {"title":"Bull of Heaven - Like a Wall in Which an Insect Lives and Gnaws","datepublished":2016,"track":488, "length":41958,"videotype":"Listen"},
 "OS2 // WARP - a small girl you found running inside yr head [2021]": {"title":"OS2 // WARP - a small girl you found running inside yr head [2021]","datepublished":2023,"track":489, "length":22337,"videotype":"Listen"},
-"Discord Family Fued": {"title":"Discord Family Fued","datepublished":2025,"track":490, "length":4448,"videotype":"Watch"}
+"Discord Family Fued": {"title":"Discord Family Fued","datepublished":2025,"track":490, "length":4448,"videotype":"Watch"},
+"Discord MasterChef": {"title":"Discord MasterChef","datepublished":2025,"track":491, "length":5493,"videotype":"Watch"}
 
 
       },
@@ -990,7 +991,8 @@
         "487":{"title":"Lift Your Skinny Fists Like Antennas to Heaven (full album) HQ"},
         "488":{"title":"Bull of Heaven - Like a Wall in Which an Insect Lives and Gnaws"},
         "489":{"title":"OS2 // WARP - a small girl you found running inside yr head [2021]"},
-        "490":{"title":"Discord Family Fued"}
+        "490":{"title":"Discord Family Fued"},
+        "491":{"title":"Discord MasterChef"}
         
         
         },
