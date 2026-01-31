@@ -493,7 +493,9 @@
 "Bull of Heaven - Like a Wall in Which an Insect Lives and Gnaws": {"title":"Bull of Heaven - Like a Wall in Which an Insect Lives and Gnaws","datepublished":2016,"track":488, "length":41958,"videotype":"Listen"},
 "OS2 // WARP - a small girl you found running inside yr head [2021]": {"title":"OS2 // WARP - a small girl you found running inside yr head [2021]","datepublished":2023,"track":489, "length":22337,"videotype":"Listen"},
 "Discord Family Fued": {"title":"Discord Family Fued","datepublished":2025,"track":490, "length":4448,"videotype":"Watch"},
-"Discord MasterChef": {"title":"Discord MasterChef","datepublished":2025,"track":491, "length":5493,"videotype":"Watch"}
+"Discord MasterChef": {"title":"Discord MasterChef","datepublished":2025,"track":491, "length":5493,"videotype":"Watch"},
+"Handcuffed Together for 24 Hours": {"title":"Handcuffed Together for 24 Hours","datepublished":2026,"track":492, "length":3567,"videotype":"Watch"},
+"the gmod stream": {"title":"the gmod stream","datepublished":2023,"track":493, "length":5199,"videotype":"Watch"}
 
 
       },
@@ -992,7 +994,9 @@
         "488":{"title":"Bull of Heaven - Like a Wall in Which an Insect Lives and Gnaws"},
         "489":{"title":"OS2 // WARP - a small girl you found running inside yr head [2021]"},
         "490":{"title":"Discord Family Fued"},
-        "491":{"title":"Discord MasterChef"}
+        "491":{"title":"Discord MasterChef"},
+        "492":{"title":"Handcuffed Together for 24 Hours"},
+        "493":{"title":"the gmod stream"}
         
         
         },
