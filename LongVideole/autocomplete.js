@@ -495,6 +495,7 @@ const songTitles = [
     "the gmod stream",
     "NǽnøĉÿbbŒrğ VbëřřĦōlökäävsŦ - God Is A Systems Architect",
     "Beloved Tomboyish Girl (Extended Mix) - Touhou 6: the Embodiment of Scarlet Devil",
+    "▪ Magic Square (10 hours, 10 songs)",
     
 ]
 
