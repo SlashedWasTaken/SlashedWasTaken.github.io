@@ -497,6 +497,7 @@ const songTitles = [
     "Beloved Tomboyish Girl (Extended Mix) - Touhou 6: the Embodiment of Scarlet Devil",
     "▪ Magic Square (10 hours, 10 songs)",
     "WATCH PAINT DRY Collab",
+    "‌",
     
 ]
 
