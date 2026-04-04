@@ -498,6 +498,7 @@ const songTitles = [
     "▪ Magic Square (10 hours, 10 songs)",
     "WATCH PAINT DRY Collab",
     "‌",
+    "‌ (2)",
     
 ]
 
