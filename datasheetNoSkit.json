@@ -503,7 +503,8 @@
 "‌": {"title":"‌","datepublished":2023,"track":498, "length":43117,"videotype":"Listen"},
 "‌ (2)": {"title":"‌","datepublished":2023,"track":499, "length":43120,"videotype":"Listen"},
 "Windows 98 Startup sound slowed down to 24 hours": {"title":"Windows 98 Startup sound slowed down to 24 hours","datepublished":2016,"track":500, "length":86408,"videotype":"Listen"},
-"We Became Voice Actors on Discord": {"title":"We Became Voice Actors on Discord","datepublished":2026,"track":501, "length":4155,"videotype":"Watch"}
+"We Became Voice Actors on Discord": {"title":"We Became Voice Actors on Discord","datepublished":2026,"track":501, "length":4155,"videotype":"Watch"},
+"HIGHVERSITY 2": {"title":"HIGHVERSITY 2","datepublished":2026,"track":502, "length":4874,"videotype":"Watch"}
 
 
       },
@@ -1012,7 +1013,8 @@
         "498":{"title":"‌"},
         "499":{"title":"‌ (2)"},
         "500":{"title":"Windows 98 Startup sound slowed down to 24 hours"},
-        "501":{"title":"We Became Voice Actors on Discord"}
+        "501":{"title":"We Became Voice Actors on Discord"},
+        "502":{"title":"HIGHVERSITY 2"}
         
         
         },
