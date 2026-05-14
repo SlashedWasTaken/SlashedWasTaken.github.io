@@ -503,6 +503,7 @@ const songTitles = [
     "We Became Voice Actors on Discord",
     "HIGHVERSITY 2",
     "Bull of Heaven - I'm Not Here Anymore",
+    "Bull of Heaven - The Complete LCM Series [Abridged]",
     
 ]
 
