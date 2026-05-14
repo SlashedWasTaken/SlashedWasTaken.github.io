@@ -505,7 +505,8 @@
 "Windows 98 Startup sound slowed down to 24 hours": {"title":"Windows 98 Startup sound slowed down to 24 hours","datepublished":2016,"track":500, "length":86408,"videotype":"Listen"},
 "We Became Voice Actors on Discord": {"title":"We Became Voice Actors on Discord","datepublished":2026,"track":501, "length":4155,"videotype":"Watch"},
 "HIGHVERSITY 2": {"title":"HIGHVERSITY 2","datepublished":2026,"track":502, "length":4874,"videotype":"Watch"},
-"Bull of Heaven - I'm Not Here Anymore": {"title":"Bull of Heaven - I'm Not Here Anymore","datepublished":2014,"track":503, "length":10608,"videotype":"Listen"}
+"Bull of Heaven - I'm Not Here Anymore": {"title":"Bull of Heaven - I'm Not Here Anymore","datepublished":2014,"track":503, "length":10608,"videotype":"Listen"},
+"Bull of Heaven - The Complete LCM Series [Abridged]": {"title":"Bull of Heaven - The Complete LCM Series [Abridged]","datepublished":2024,"track":504, "length":6051,"videotype":"Listen"}
 
 
       },
@@ -1016,7 +1017,8 @@
         "500":{"title":"Windows 98 Startup sound slowed down to 24 hours"},
         "501":{"title":"We Became Voice Actors on Discord"},
         "502":{"title":"HIGHVERSITY 2"},
-        "503":{"title":"Bull of Heaven - I'm Not Here Anymore"}
+        "503":{"title":"Bull of Heaven - I'm Not Here Anymore"},
+        "504":{"title":"Bull of Heaven - The Complete LCM Series [Abridged]"}
         
         
         },
