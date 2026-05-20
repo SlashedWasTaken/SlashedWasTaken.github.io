@@ -504,6 +504,7 @@ const songTitles = [
     "HIGHVERSITY 2",
     "Bull of Heaven - I'm Not Here Anymore",
     "Bull of Heaven - The Complete LCM Series [Abridged]",
+    "5 minutes from every Bull of Heaven excerpt (except 213 that has no music)",
     
 ]
 
