@@ -507,7 +507,8 @@
 "HIGHVERSITY 2": {"title":"HIGHVERSITY 2","datepublished":2026,"track":502, "length":4874,"videotype":"Watch"},
 "Bull of Heaven - I'm Not Here Anymore": {"title":"Bull of Heaven - I'm Not Here Anymore","datepublished":2014,"track":503, "length":10608,"videotype":"Listen"},
 "Bull of Heaven - The Complete LCM Series [Abridged]": {"title":"Bull of Heaven - The Complete LCM Series [Abridged]","datepublished":2024,"track":504, "length":6051,"videotype":"Listen"},
-"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)": {"title":"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)","datepublished":2026,"track":505, "length":14100,"videotype":"Listen"}
+"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)": {"title":"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)","datepublished":2026,"track":505, "length":14100,"videotype":"Listen"},
+"The Avalanches' Since I Left You: The Samples": {"title":"The Avalanches' Since I Left You: The Samples","datepublished":2026,"track":506, "length":4874,"videotype":"Watch"}
 
 
       },
@@ -1020,7 +1021,8 @@
         "502":{"title":"HIGHVERSITY 2"},
         "503":{"title":"Bull of Heaven - I'm Not Here Anymore"},
         "504":{"title":"Bull of Heaven - The Complete LCM Series [Abridged]"},
-        "505":{"title":"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)"}
+        "505":{"title":"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)"},
+        "506":{"title":"The Avalanches' Since I Left You: The Samples"}
         
         
         },
