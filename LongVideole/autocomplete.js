@@ -506,6 +506,7 @@ const songTitles = [
     "Bull of Heaven - The Complete LCM Series [Abridged]",
     "5 minutes from every Bull of Heaven excerpt (except 213 that has no music)",
     "The Avalanches' Since I Left You: The Samples",
+    "2 Hours of Pain",
     
 ]
 
