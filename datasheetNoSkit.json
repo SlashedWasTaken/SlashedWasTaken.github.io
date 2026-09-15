@@ -509,7 +509,8 @@
 "Bull of Heaven - The Complete LCM Series [Abridged]": {"title":"Bull of Heaven - The Complete LCM Series [Abridged]","datepublished":2024,"track":504, "length":6051,"videotype":"Listen"},
 "5 minutes from every Bull of Heaven excerpt (except 213 that has no music)": {"title":"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)","datepublished":2026,"track":505, "length":14100,"videotype":"Listen"},
 "The Avalanches' Since I Left You: The Samples": {"title":"The Avalanches' Since I Left You: The Samples","datepublished":2026,"track":506, "length":4874,"videotype":"Watch"},
-"2 Hours of Pain": {"title":"2 Hours of Pain","datepublished":2024,"track":507, "length":8217,"videotype":"Watch"}
+"2 Hours of Pain": {"title":"2 Hours of Pain","datepublished":2024,"track":507, "length":8217,"videotype":"Watch"},
+"7 Hours of PAIN": {"title":"7 Hours of PAIN","datepublished":2026,"track":508, "length":23980,"videotype":"Watch"}
 
 
       },
@@ -1024,7 +1025,8 @@
         "504":{"title":"Bull of Heaven - The Complete LCM Series [Abridged]"},
         "505":{"title":"5 minutes from every Bull of Heaven excerpt (except 213 that has no music)"},
         "506":{"title":"The Avalanches' Since I Left You: The Samples"},
-        "507":{"title":"2 Hours of Pain"}
+        "507":{"title":"2 Hours of Pain"},
+        "508":{"title":"7 Hours of PAIN"}
         
         
         },
