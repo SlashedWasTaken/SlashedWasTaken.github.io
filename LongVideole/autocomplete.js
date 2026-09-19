@@ -508,6 +508,7 @@ const songTitles = [
     "The Avalanches' Since I Left You: The Samples",
     "2 Hours of Pain",
     "7 Hours of PAIN",
+    "Lonely Spacecraft - Depressive Universe",
     
 ]
 
