@@ -509,6 +509,7 @@ const songTitles = [
     "2 Hours of Pain",
     "7 Hours of PAIN",
     "Lonely Spacecraft - Depressive Universe",
+    "Bull of Heaven - 029 - Lions On A Banner",
     
 ]
 
