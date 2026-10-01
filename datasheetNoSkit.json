@@ -512,7 +512,8 @@
 "2 Hours of Pain": {"title":"2 Hours of Pain","datepublished":2024,"track":507, "length":8217,"videotype":"Watch"},
 "7 Hours of PAIN": {"title":"7 Hours of PAIN","datepublished":2026,"track":508, "length":23980,"videotype":"Watch"},
 "Lonely Spacecraft - Depressive Universe": {"title":"Lonely Spacecraft - Depressive Universe","datepublished":2026,"track":509, "length":25881,"videotype":"Listen"},
-"Bull of Heaven - 029 - Lions On A Banner": {"title":"Bull of Heaven - 029 - Lions On A Banner","datepublished":2014,"track":510, "length":3923,"videotype":"Listen"}
+"Bull of Heaven - 029 - Lions On A Banner": {"title":"Bull of Heaven - 029 - Lions On A Banner","datepublished":2014,"track":510, "length":3923,"videotype":"Listen"},
+"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love": {"title":"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love","datepublished":2014,"track":511, "length":5045,"videotype":"Listen"}
 
 
       },
@@ -1030,7 +1031,8 @@
         "507":{"title":"2 Hours of Pain"},
         "508":{"title":"7 Hours of PAIN"},
         "509":{"title":"Lonely Spacecraft - Depressive Universe"},
-        "510":{"title":"Bull of Heaven - 029 - Lions On A Banner"}
+        "510":{"title":"Bull of Heaven - 029 - Lions On A Banner"},
+        "511":{"title":"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love"}
         
         
         },
