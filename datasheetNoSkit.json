@@ -513,7 +513,8 @@
 "7 Hours of PAIN": {"title":"7 Hours of PAIN","datepublished":2026,"track":508, "length":23980,"videotype":"Watch"},
 "Lonely Spacecraft - Depressive Universe": {"title":"Lonely Spacecraft - Depressive Universe","datepublished":2026,"track":509, "length":25881,"videotype":"Listen"},
 "Bull of Heaven - 029 - Lions On A Banner": {"title":"Bull of Heaven - 029 - Lions On A Banner","datepublished":2014,"track":510, "length":3923,"videotype":"Listen"},
-"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love": {"title":"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love","datepublished":2014,"track":511, "length":5045,"videotype":"Listen"}
+"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love": {"title":"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love","datepublished":2014,"track":511, "length":5045,"videotype":"Listen"},
+"Bull of Heaven -- Like the First Pine Cone": {"title":"Bull of Heaven -- Like the First Pine Cone","datepublished":2013,"track":512, "length":5022,"videotype":"Listen"}
 
 
       },
@@ -1032,7 +1033,8 @@
         "508":{"title":"7 Hours of PAIN"},
         "509":{"title":"Lonely Spacecraft - Depressive Universe"},
         "510":{"title":"Bull of Heaven - 029 - Lions On A Banner"},
-        "511":{"title":"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love"}
+        "511":{"title":"Bull of Heaven - Self-Traitor, I Do Bring the Spider Love"},
+        "512":{"title":"Bull of Heaven -- Like the First Pine Cone"}
         
         
         },
