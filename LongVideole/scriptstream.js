@@ -550,6 +550,22 @@ function compareFunction(choiceData, mysterySong) {
         result.videotype = "grey"
     }
 
+    // Video Views Comparison
+    if (choiceData.videoviews === mysterySong.videoviews) {
+        result.videoviews = "green"
+    }
+    else {
+        result.videoviews = "grey"
+    }
+
+    // Visibility Comparison
+    if (choiceData.visibility === mysterySong.visibility) {
+        result.visibility = "green"
+    }
+    else {
+        result.visibility = "grey"
+    }
+
 
 }
 
@@ -616,17 +632,31 @@ function addRow(choiceData, result) {
     videotypeCell.innerText = choiceData.videotype
     videotypeCell.className += " " + result["videotype"]
 
+    // Video Views
+    const videoviewsCell = document.createElement('td')
+    videoviewsCell.classList.add('videoviews-cell')
+    videoviewsCell.innerText = choiceData.videoviews
+    videoviewsCell.className += " " + result["videoviews"]
+
+    // Visibility
+    const visibilityCell = document.createElement('td')
+    visibilityCell.classList.add('visibility-cell')
+    visibilityCell.innerText = choiceData.visibility
+    visibilityCell.className += " " + result["visibility"]
+
 
     newRow.appendChild(songCell)
     newRow.appendChild(trackCell)
     newRow.appendChild(lengthCell)
     newRow.appendChild(datepublishedCell)
     newRow.appendChild(videotypeCell)
+    newRow.appendChild(videoviewsCell)
+    newRow.appendChild(visibilityCell)
 
 }
 
 function showMysterySong(correct) {
-    cardBackground.querySelector("#end-card-title").innerText = correct ? "Correct!" + " " : "Game" + " Over!"
+    cardBackground.querySelector("#end-card-title").innerText = correct ? "good job bro you did it" + " " : "you lost" + " the game"
     cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title
     cardBackground.classList.remove('hide')
     searchInput.classList.add('greyed')
