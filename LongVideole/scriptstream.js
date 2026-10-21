@@ -79,7 +79,7 @@ showIntro()
 //initLocalStoragestream()
 sideStatistics()
 getRandomMysterySong()
-loadLocalStoragestream()
+//loadLocalStoragestream()
 
 showShowButton.onclick = showShowResult
 
@@ -413,7 +413,7 @@ async function compareSong(choice) {
 }
 
 function mainStatisticsW() {
-    const gamesPlayed = Number(window.localStorage.getItem('gamesPlayed')) || Number(window.localStorage.getItem('winStreakstream')) - 1
+    const gamesPlayed = Number(window.localStorage.getItem('gamesPlayedstream')) || Number(window.localStorage.getItem('winStreakstream')) - 1
     window.localStorage.setItem('gamesPlayedstream', gamesPlayed + 1)
 
     const statCorrect = Number(window.localStorage.getItem('correctGuessesstream')) || 0
