@@ -204,30 +204,30 @@
     <script src="autocomplete.js"></script>
     <script src="scriptstream.js"></script>
     <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const root = document.documentElement;
+  document.addEventListener("DOMContentLoaded", () => {
+    const root = document.documentElement;
 
-      const randomColor = () => '#' + Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0');
-      
-      const randomAngle = () => `${Math.floor(Math.random() * 360)}deg`;
-      
-      const randomDist = () => `${Math.floor(Math.random() * 40) + 50}%`;
+    const randomColor = () => '#' + Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0');
+    
+    const randomAngle = () => `${Math.floor(Math.random() * 360)}deg`;
+    
+    const randomDist = () => `${Math.floor(Math.random() * 40) + 50}%`;
 
-      root.style.setProperty('--c1', randomColor());
-      root.style.setProperty('--c2', randomColor());
-      root.style.setProperty('--c3', randomColor());
-      root.style.setProperty('--c4', randomColor());
+    root.style.setProperty('--c1', randomColor());
+    root.style.setProperty('--c2', randomColor());
+    root.style.setProperty('--c3', randomColor());
+    root.style.setProperty('--c4', randomColor());
 
-      root.style.setProperty('--angle-1', randomAngle());
-      root.style.setProperty('--angle-2', randomAngle());
-      root.style.setProperty('--angle-3', randomAngle());
-      root.style.setProperty('--angle-4', randomAngle());
+    root.style.setProperty('--angle-1', randomAngle());
+    root.style.setProperty('--angle-2', randomAngle());
+    root.style.setProperty('--angle-3', randomAngle());
+    root.style.setProperty('--angle-4', randomAngle());
 
-      root.style.setProperty('--dist-1', randomDist());
-      root.style.setProperty('--dist-2', randomDist());
-      root.style.setProperty('--dist-3', randomDist());
-      root.style.setProperty('--dist-4', randomDist());
-    });
-  </script>
+    root.style.setProperty('--dist-1', randomDist());
+    root.style.setProperty('--dist-2', randomDist());
+    root.style.setProperty('--dist-3', randomDist());
+    root.style.setProperty('--dist-4', randomDist());
+  });
+</script>
         </body>
 </html>
