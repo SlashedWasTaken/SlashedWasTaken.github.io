@@ -73,17 +73,21 @@ a.buttonA {
 
 body {
   color: var(--text-color);
-  background-image: radial-gradient(
-    circle, 
-    var(--c1, #0a0a0f), var(--c2, #12121a), var(--c3, #1a1a25), 
-    var(--c4, #222230), var(--c5, #2a2a3c), var(--c6, #323247), 
-    var(--c7, #3a3a53), var(--c8, #434360), var(--c9, #4b4b6d), 
-    var(--c10, #54547b), var(--c11, #5d5d89), var(--c12, #676697), 
-    var(--c13, #7171a6)
-  );
+  
+  background-color: #0a0a0f; 
+  
+  background-image: 
+    linear-gradient(var(--angle-1, 135deg), var(--c1, #0a0a0f), transparent var(--dist-1, 70%)),
+    conic-gradient(from var(--angle-2, 0deg) at var(--pos-1, 50% 50%), transparent, var(--c2, #1a1a25), transparent 60%),
+    radial-gradient(var(--shape, circle) at var(--pos-2, 30% 20%), var(--c3, #7171a6), transparent var(--dist-2, 80%)),
+    radial-gradient(circle at var(--pos-3, 80% 80%), var(--c4, #3a3a53), var(--c1, #0a0a0f) var(--dist-3, 100%));
+
+  background-blend-mode: screen, color-dodge, overlay, normal;
+  
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
+  min-height: 100vh;
 }
 
 
