@@ -1,6 +1,6 @@
 // MUST BE SAME NUMBER AS OBJECTS IN JSON FILE. MATH SECTION. math section. Math Section.
 function newMysterySong() {
-    Math.seedrandom(today);
+    Math.seedrandom();
     mysteryNumber = Math.floor(Math.random() * 512) + 1;
 
     //console.log(today)
