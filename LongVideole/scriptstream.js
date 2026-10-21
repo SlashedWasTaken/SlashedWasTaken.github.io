@@ -194,7 +194,7 @@ function preserveGameState() {
 }
 
 // tror guess count felet ligger under här vid ++guessCount
-function loadLocalStorage() {
+function loadLocalStoragestream() {
     const anyGuesses = window.localStorage.getItem('guessCountstream')
     if (anyGuesses) {
         guessCount = Number(window.localStorage.getItem('guessCountstream'))
