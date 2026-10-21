@@ -80,6 +80,7 @@ showIntro()
 sideStatistics()
 getRandomMysterySong()
 loadLocalStorage()
+resetGameState()
 
 showShowButton.onclick = showShowResult
 
@@ -405,10 +406,10 @@ async function compareSong(choice) {
         showMysterySong(false)
         winStatus = "false";
         searchInput.setAttribute('placeholder', 'Better luck next time!')
-        preserveGameState()
+        //preserveGameState()
     } else { }
     sideStatistics()
-    preserveGameState()
+    //preserveGameState()
     //console.log(result.title + " seggy")
 }
 
@@ -795,7 +796,6 @@ function hexFromResult(result) {
     return c
 }
 
-resetGameState()
 
 function openInNewTab(url) {
     window.open(url, '_blank').focus();
