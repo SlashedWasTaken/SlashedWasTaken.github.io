@@ -79,7 +79,7 @@ showIntro()
 //initLocalStoragestream()
 sideStatistics()
 getRandomMysterySong()
-loadLocalStoragestream()
+loadLocalStorage()
 
 showShowButton.onclick = showShowResult
 
@@ -194,7 +194,7 @@ function preserveGameState() {
 }
 
 // tror guess count felet ligger under här vid ++guessCount
-function loadLocalStoragestream() {
+function loadLocalStorage() {
     const anyGuesses = window.localStorage.getItem('guessCountstream')
     if (anyGuesses) {
         guessCount = Number(window.localStorage.getItem('guessCountstream'))
