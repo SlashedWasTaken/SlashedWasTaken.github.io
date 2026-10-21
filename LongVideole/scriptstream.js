@@ -79,13 +79,13 @@ showIntro()
 //initLocalStoragestream()
 sideStatistics()
 getRandomMysterySong()
-//loadLocalStoragestream()
+loadLocalStoragestream()
 
 showShowButton.onclick = showShowResult
 
 guessButton.onclick = async function () {
     if (songTitles.includes(searchInput.value)) {
-        const total = Number(window.localStorage.getItem('totalGuessesstream')) || 0
+        const total = 0
 
         await compareSong(searchInput.value)
         window.localStorage.setItem('totalGuessesstream', total + 1)
@@ -179,13 +179,13 @@ function preserveGameState() {
 
     window.localStorage.setItem('guessCountstream', guessCount)
 
-    window.localStorage.setItem('mysterySongstream', JSON.stringify(mysterySong))
+    window.localStorage.setItem('mysterySong', JSON.stringify(mysterySong))
 
-    const sessionDate = window.localStorage.getItem('sessionDatestream')
+    const sessionDate = window.localStorage.getItem('sessionDate')
     if (sessionDate) {
         //console.log("Session date is already set.")
     } else {
-        window.localStorage.setItem('sessionDatestream', new Date())
+        window.localStorage.setItem('sessionDate', new Date())
     }
 
 
@@ -194,10 +194,10 @@ function preserveGameState() {
 }
 
 // tror guess count felet ligger under här vid ++guessCount
-function loadLocalStoragestream() {
-    const anyGuesses = 1
+function loadLocalStorage() {
+    const anyGuesses = window.localStorage.getItem('guessCountstream')
     if (anyGuesses) {
-        guessCount = 1
+        guessCount = Number(window.localStorage.getItem('guessCountstream'))
         searchInput.setAttribute('placeholder', 'Guess ' + guessCount + '/' + maxGuesses)
     } else {
         console.log("No Guesses Yet!")
