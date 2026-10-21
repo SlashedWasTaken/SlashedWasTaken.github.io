@@ -73,21 +73,21 @@ a.buttonA {
 
 body {
   color: var(--text-color);
-  
-  background-color: #0a0a0f; 
+  background-color: #0c0b11;
   
   background-image: 
-    linear-gradient(var(--angle-1, 135deg), var(--c1, #0a0a0f), transparent var(--dist-1, 70%)),
-    conic-gradient(from var(--angle-2, 0deg) at var(--pos-1, 50% 50%), transparent, var(--c2, #1a1a25), transparent 60%),
-    radial-gradient(var(--shape, circle) at var(--pos-2, 30% 20%), var(--c3, #7171a6), transparent var(--dist-2, 80%)),
-    radial-gradient(circle at var(--pos-3, 80% 80%), var(--c4, #3a3a53), var(--c1, #0a0a0f) var(--dist-3, 100%));
+    linear-gradient(var(--angle-1, 45deg), var(--c1, #0a0a0f), transparent var(--dist-1, 70%)),
+    linear-gradient(var(--angle-2, 180deg), var(--c2, #2a2a3c), transparent var(--dist-2, 70%)),
+    linear-gradient(var(--angle-3, 290deg), var(--c3, #434360), transparent var(--dist-3, 70%)),
+    linear-gradient(var(--angle-4, 0deg), var(--c4, #7171a6), var(--c1, #0a0a0f) var(--dist-4, 100%));
 
-  background-blend-mode: screen, color-dodge, overlay, normal;
+  background-blend-mode: screen, overlay, hard-light, normal;
   
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   min-height: 100vh;
+  margin: 0;
 }
 
 
