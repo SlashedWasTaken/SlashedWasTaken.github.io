@@ -647,11 +647,11 @@ function addRow(choiceData, result) {
 
     newRow.appendChild(songCell)
     newRow.appendChild(trackCell)
-    newRow.appendChild(lengthCell)
-    newRow.appendChild(datepublishedCell)
-    newRow.appendChild(videotypeCell)
-    newRow.appendChild(videoviewsCell)
-    newRow.appendChild(visibilityCell)
+    //newRow.appendChild(lengthCell)
+    //newRow.appendChild(datepublishedCell)
+    //newRow.appendChild(videotypeCell)
+    //newRow.appendChild(videoviewsCell)
+    //newRow.appendChild(visibilityCell)
 
 }
 
